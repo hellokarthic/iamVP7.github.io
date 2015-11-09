@@ -11,7 +11,7 @@ paginate: 5
 paginate_path: "page:num"
 baseurl: /
 domain_name: 'http://iamVP7.github.io/'
-google_analytics: 'UA-XXXXXXXX-X'
+google_analytics: 'UA-69083735-1'
 disqus: true
 disqus_shortname: 'iamvp7'
 
