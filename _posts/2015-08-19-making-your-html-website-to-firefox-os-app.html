@@ -1,0 +1,86 @@
+---
+layout: post
+title: Making your HTML website to Firefox OS app
+date: 2015-08-19 18:58:13.000000000 +05:30
+type: post
+published: true
+status: publish
+categories: programming
+tags: [Movie1,Movie2,github-pages]
+meta:
+  _publicize_done_external: a:2:{s:8:"facebook";a:1:{i:5327596;s:53:"https://facebook.com/521066101241445_1124912744190108";}s:7:"twitter";a:1:{i:5327584;s:52:"https://twitter.com/iamVP7/status/634076952249274368";}}
+  _rest_api_published: '1'
+  _rest_api_client_id: "-1"
+  _publicize_job_id: '13891829650'
+  _publicize_done_9754833: '1'
+  _wpas_done_5327596: '1'
+  publicize_linkedin_url: https://www.linkedin.com/updates?discuss=&scope=72621861&stype=M&topic=6039842640004993024&type=U&a=PF3N
+  _publicize_done_9754835: '1'
+  _wpas_done_5327600: '1'
+  _publicize_done_9754843: '1'
+  _wpas_done_5327584: '1'
+  publicize_twitter_user: iamVP7
+  publicize_google_plus_url: https://plus.google.com/+TechnorulerBlogspotIn/posts/bKRXZ5m1Myk
+  _publicize_done_9754847: '1'
+  _wpas_done_9797179: '1'
+  publicize_path_id: 55d4d1cf34f7c6be8c2cefd5
+  _publicize_done_9755206: '1'
+  _wpas_done_9797548: '1'
+  publicize_tumblr_url: http://.tumblr.com/post/127094085985
+  _publicize_done_9755208: '1'
+  _wpas_done_9797552: '1'
+author:
+  login: viswaprasath
+  email: shihan.viswa@gmail.com
+  display_name: Vitchu
+  first_name: ''
+  last_name: ''
+---
+<p>Recently we are see some of the post on how to develop a website using github pages. We saw  list of the followings in the perspective of github</p>
+<ul>
+<li><a href="https://technorulerin.wordpress.com/2015/07/08/creating-github-account/" target="_blank">creating github account</a></li>
+<li><a href="https://technorulerin.wordpress.com/2015/07/08/creating-github-website/" target="_blank">Creating Github website</a></li>
+<li><a href="https://technorulerin.wordpress.com/2015/07/14/cloning-the-source-from-github-to-local-machine/" target="_blank">How to clone your repo to our machine</a></li>
+</ul>
+<p>In <a href="https://technorulerin.wordpress.com/firefox-os/" target="_blank">Firefox OS</a> app development point of view we have really a large number of tutorials. Which is available in the <a href="https://technorulerin.wordpress.com/firefox-os/" target="_blank">page</a></p>
+<p>Very recently I have share a tutorial about getting started to <a href="https://viswaprasathks.wordpress.com/2015/08/16/online-firefox-os-app-development-introduction/" target="_blank">Firefox OS app development</a>. It is recommended to to check about it. The session is very small and you can learn very quickly.</p>
+<p>First you have to create a small file in the folder where you have your website. Name the file as <em><strong>"manifest.webapp"</strong></em></p>
+<p>In that file you have to give the following lines</p>
+<blockquote><p>{<br />
+"name": "MozillaTN",<br />
+"description": "Mozilla Tamilnadu Website",<br />
+"launch_path": "/index.html",<br />
+"icons": {<br />
+"512": "/icons/icon512x512.png",<br />
+"256": "/icons/icon256x256.png",<br />
+"64": "/icons/icon64x64.png",<br />
+"128": "/icons/icon128x128.png"<br />
+},<br />
+"developer": {<br />
+"name": "Mozilla Tamilnadu",<br />
+"url": "http://mozillatn.github.io/"<br />
+}<br />
+}</p></blockquote>
+<p>detailed info of each key</p>
+<ul>
+<li>"name" is the application name. It should be less than 12 characters.</li>
+<li>"description" is where we have to tell about the application. It is good practice to have 25+ words and 50-</li>
+<li>"launch_path" we have to mention which is going to be our first page when the app is launched.</li>
+<li>"icons": this is the parent key which will have set of icons
+<ul>
+<li>"512": is we have to give the location of the icon of size 512x512 px.</li>
+<li>"128": is we have to give the location of the icon of size 128X128 px.</li>
+</ul>
+</li>
+<li>"developer": will be having most of the information about the developer
+<ul>
+<li>"name" : we have to give developer name</li>
+<li>"url": we can give the presonal website</li>
+</ul>
+</li>
+</ul>
+<p>Save the file in the same folder where all your website contents like index.html, css files and js files are there.</p>
+<p>The next step is just open <a href="https://technorulerin.wordpress.com/2014/11/11/get-started-with-mozillas-webide/" target="_blank">WebIDE</a></p>
+<p>You  have to open the project. (Project -&gt; Open packaged app)</p>
+<p>You have to open the folder of your application. You can see it is valid. If it is invalid, then have to check any problem in manifest file.</p>
+<p>Then you can zip all the contest and upload to the marketplace. Your app is done.</p>

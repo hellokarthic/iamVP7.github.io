@@ -1,0 +1,90 @@
+---
+layout: post
+title: First Application in Simulator
+date: 2014-04-24 20:01:00.000000000 +05:30
+type: post
+published: true
+status: publish
+categories:
+- Apps
+- Firefox
+- Firefox OS
+- Firefox OS Tutorials
+tags: []
+meta:
+  blogger_blog: www.technoruler.com
+  blogger_author: VISWAPRASATH KS
+  blogger_cb097c283b9bbfde97b4822e7250157d_permalink: '3670944694782320146'
+author:
+  login: viswaprasath
+  email: shihan.viswa@gmail.com
+  display_name: Vitchu
+  first_name: ''
+  last_name: ''
+---
+<div dir="ltr" style="text-align:left;">
+<div style="text-align:justify;">
+<div class="separator" style="clear:both;text-align:center;"><a href="http://technorulerin.files.wordpress.com/2014/04/8dc3c-images2.jpg" style="clear:right;float:right;margin-bottom:1em;margin-left:1em;"><img border="0" src="{{ site.baseurl }}/assets/8dc3c-images2.jpg" height="200" width="200" /></a></div>
+<p>In our <a href="http://technoruler.blogspot.in/2014/04/FirefoxOS-first-application.html">previous post</a> we have seen the starting of the application. We have developed our application have a part and saw its output in the browser. So what is the final thing we should do to see our application to the simulator and then to the Firefox Market place. I guess you can find the list of requirement in <a href="http://technoruler.blogspot.in/2014/04/getting-started-with-firefox-os.html">this post</a>. Please don't forget to have all the requirements.</div>
+<div style="text-align:justify;"></div>
+<div style="text-align:justify;"><a name="more"></a>The main part for any application is writing the manifest file. The extension for the manifest file is .webapp</div>
+<div style="text-align:justify;"></div>
+<div style="text-align:justify;">Here I would like to give your a sample manifest.webapp file for Firefox OS app which we use.</div>
+<p>
+<div class="code" id="">
+<div style="text-align:justify;">{</div>
+<div style="text-align:justify;">
+<div>  "name": "Hello World",</div>
+<div>  "description": "Welcoming the developers",</div>
+<div>  "launch_path": "/index.html",</div>
+<div>  "icons": {</div>
+<div>    "60": "/images/app_icon_60.png",</div>
+<div>    "128": "/images/app_icon_128.png"</div>
+<div>  },</div>
+<div>  "version": "1.1",</div>
+<div>  "developer": {</div>
+<div>    "name": "Viswaprasath KS",</div>
+<div>    "url": "technoruler.blogspot.com"</div>
+<div>  },</div>
+<div>  "default_locale": "en"</div>
+<div>}</p>
+<p>The detailed description about the mainfest is as follows.</p>
+<p>
+<ul>
+<li><b>"name"</b> gives the name of the application.</li>
+<li><b>"description" </b>gives the description about the application which is useful to know about the application.</li>
+<li><b>"launch_path"</b> tells where the app should get started.</li>
+<li><b>"icons" </b>will have the icon image. Under it we can give for different size.</li>
+<li><b>"version" </b>will give the version of the application we have developed.</li>
+<li><b>"developer" </b>will enclose the details about the developers</li>
+<li><b>"name" </b>under "developer" will let us know who developed the application.</li>
+<li><b>"ulr" </b>will help the other to know about the application</li>
+<li>"default_locale" is to tell what is the default language for this application.</li>
+</ul>
+<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left:auto;margin-right:auto;text-align:center;">
+<tbody>
+<tr>
+<td style="text-align:center;"><a href="http://technorulerin.files.wordpress.com/2014/04/0cb27-mainfest.png" style="margin-left:auto;margin-right:auto;"><img border="0" src="{{ site.baseurl }}/assets/0cb27-mainfest.png" height="191" width="400" /></a></td>
+</tr>
+<tr>
+<td class="tr-caption" style="text-align:center;">Look of an typical mainfest</td>
+</tr>
+</tbody>
+</table>
+<p>So now we will be having only 2 files of this application one is the very important file where the application will be started and another one is the manifest.webapp file which will be telling the details about the Firefox OS application. Take a look at this below<br />
+<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left:auto;margin-right:auto;text-align:center;">
+<tbody>
+<tr>
+<td style="text-align:center;"><a href="http://technorulerin.files.wordpress.com/2014/04/cadbd-files.png" style="margin-left:auto;margin-right:auto;"><img border="0" src="{{ site.baseurl }}/assets/cadbd-files.png" height="201" width="400" /></a></td>
+</tr>
+<tr>
+<td class="tr-caption" style="text-align:center;">Folder containing files</td>
+</tr>
+</tbody>
+</table>
+<p>Now we almost finished all the work for the application development. The next step is to run the mobile application and test it in the simulator to see how it works.</p>
+<div></div>
+</div>
+</div>
+</div>
+</div>

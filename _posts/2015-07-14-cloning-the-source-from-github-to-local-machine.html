@@ -1,0 +1,83 @@
+---
+layout: post
+title: Cloning the Source from Github to Local Machine
+date: 2015-07-14 20:54:00.000000000 +05:30
+type: post
+published: true
+status: publish
+categories:
+- Open source
+tags:
+- Github
+- Opensource
+meta:
+  _rest_api_published: '1'
+  _rest_api_client_id: "-1"
+  _publicize_done_external: a:2:{s:8:"facebook";a:1:{i:5327596;s:53:"https://facebook.com/521066101241445_1103594542988595";}s:7:"twitter";a:1:{i:5327584;s:52:"https://twitter.com/iamVP7/status/621427710506610689";}}
+  _publicize_job_id: '12764752410'
+  _publicize_done_9754833: '1'
+  _wpas_done_5327596: '1'
+  publicize_linkedin_url: https://www.linkedin.com/updates?discuss=&scope=72621861&stype=M&topic=6027193394697166848&type=U&a=BucC
+  _publicize_done_9754835: '1'
+  _wpas_done_5327600: '1'
+  _publicize_done_9754843: '1'
+  _wpas_done_5327584: '1'
+  publicize_twitter_user: iamVP7
+  publicize_google_plus_url: https://plus.google.com/+TechnorulerBlogspotIn/posts/GuniuWtUMUj
+  _publicize_done_9754847: '1'
+  _wpas_done_9797179: '1'
+  publicize_path_id: 55a6cd4acd4b2b31720679fb
+  _publicize_done_9755206: '1'
+  _wpas_done_9797548: '1'
+  publicize_tumblr_url: http://.tumblr.com/post/124183495255
+  _publicize_done_9755208: '1'
+  _wpas_done_9797552: '1'
+author:
+  login: viswaprasath
+  email: shihan.viswa@gmail.com
+  display_name: Vitchu
+  first_name: ''
+  last_name: ''
+---
+<p>In our previous post we have see how to <a href="https://technorulerin.wordpress.com/2015/07/08/creating-github-website/">create a repo</a> in Github.com. In this post Would like to introduce how to bring that repo from Github.com to the local machine, so you can make changes in your local desktop machine and later push them to the github.com so can view at any time.</p>
+<p><strong>Install the Git</strong></p>
+<ul>
+<li>First We need to Install the git in our machine.</li>
+<li>Visit http://git-scm.com/download/ and choose your machine type, either Mac, Windows or Linux based</li>
+<li>I use Ubuntu so I will type "<code>apt-get install git</code>" in my terminal</li>
+<li>When password is asked give it, so the installation will get completed.</li>
+</ul>
+<p><strong>Cloning the repo to Machine</strong></p>
+<ul>
+<li>Then we have to clone the repo from Github to our localmachine <a href="https://technorulerin.files.wordpress.com/2015/07/clone.png"><img class="alignright wp-image-467 size-medium" src="{{ site.baseurl }}/assets/clone.png?w=300" alt="Clone" width="300" height="142" /></a></li>
+<li>Visit the repo page, in my case (https://github.com/viswaprasath/viswaprasath.github.io)</li>
+<li>You can see <strong>HTTPS clone URL </strong>above Download Zip button</li>
+<li>Below that a URL is given, copy that URL full you can click the button next to the url to copy the url.</li>
+<li>Open Terminal &amp; type the command</li>
+</ul>
+<blockquote><p> git clone https://github.com/viswaprasath/viswaprasath.github.io.git</p></blockquote>
+<p>In your case the url will be different. So you will be getting a folder in your machine with the name viswaprasath.github.io</p>
+<p><strong>Making changes</strong></p>
+<ul>
+<li>Go inside the folder</li>
+<li>Create some files say index.html is mandatory</li>
+<li>I have typed some lines in index.html so when visitor comes to my website he first will see it</li>
+</ul>
+<blockquote><p>&lt;html&gt;<br />
+&lt;head&gt;&lt;title&gt; Welcome to My Website &lt;/title&gt;<br />
+&lt;/head&gt;<br />
+&lt;body&gt;<br />
+Hello World!!<br />
+&lt;/body&gt;<br />
+&lt;/html&gt;</p></blockquote>
+<p>So When visitors comes in he will see Hello World.</p>
+<p><strong>Sending Back to Github</strong></p>
+<ul>
+<li>After making the changes we have to upload the files to github. It is called as push (we send from local to github)</li>
+<li>So first we have to add all the files we have changes. We can do it by type <strong>"git add --all",</strong> so all files will be added.</li>
+<li>Then we have to mention why we have added the files type ( <strong>git commit -m "Initial commit"</strong> )  where initial commit is the message, we can give any message here so we can understand easily.</li>
+<li>Then <strong>"git push -u origin master"</strong> here we have only one branch as of now and that name is Master, so we are pushing our code to it.</li>
+<li>So it will ask for your username and password.</li>
+<li>Give them correctly. So all the code will be push.</li>
+<li>After that give url in address bar (http://viswaprasath.github.io/) in your case it will change. You will see what you have written in index.html. I gave it as Hello World!</li>
+</ul>

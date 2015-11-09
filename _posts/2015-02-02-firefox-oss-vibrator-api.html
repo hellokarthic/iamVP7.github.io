@@ -1,0 +1,60 @@
+---
+layout: post
+title: Firefox OS's Vibrator API
+date: 2015-02-02 19:58:21.000000000 +05:30
+type: post
+published: true
+status: publish
+categories:
+- Firefox OS
+- Firefox OS Apps
+- Firefox OS Tutorials
+tags:
+- Firefox OS apps
+- Firefox OS tutorials
+meta:
+  _edit_last: '33068076'
+  geo_public: '0'
+  _wp_trash_meta_comments_status: a:2:{i:32;s:1:"1";i:78;s:1:"1";}
+  publicize_facebook_url: https://facebook.com/521066101241445_1008483479166369
+  _wpas_done_5327596: '1'
+  _publicize_done_external: a:1:{s:8:"facebook";a:1:{i:100000377806894;b:1;}}
+  _wpas_google_plus_publicize_failure: O:13:"Keyring_Error":2:{s:16:"
+  publicize_google_plus_url: https://plus.google.com/108982000212947208802/posts/N3f673Ynp1e
+  publicize_twitter_user: iamVP7
+  publicize_twitter_url: http://t.co/GnJUPvGKzr
+  _wpas_done_5327584: '1'
+  publicize_linkedin_url: https://www.linkedin.com/updates?discuss=&scope=72621861&stype=M&topic=5968105010872016896&type=U&a=Wswu
+  _wpas_done_5327600: '1'
+  publicize_tumblr_url: http://mobosedu.tumblr.com.tumblr.com/post/109901891205
+  _wpas_done_9797552: '1'
+  _wpas_path_publicize_failure: O:13:"Keyring_Error":2:{s:16:"
+  publicize_path_id: ''
+  _thumbnail_id: '411'
+  _wpas_done_9797179: '1'
+  _publicize_pending: '1'
+  _rest_api_published: '1'
+  _rest_api_client_id: "-1"
+author:
+  login: viswaprasath
+  email: shihan.viswa@gmail.com
+  display_name: Vitchu
+  first_name: ''
+  last_name: ''
+---
+<p>One of the Most old feature every phone had was Vibration, usually Vibration is defined to be a small pause between two shakes of the device. Nowadays the modern Mobile devices allow software code to handle the hardware and make the device to vibrate well.</p>
+<p>[caption id="attachment_411" align="alignright" width="320"]<a href="https://technorulerin.files.wordpress.com/2015/02/firefox-vibrator-api.png"><img class="size-full wp-image-411" src="{{ site.baseurl }}/assets/firefox-vibrator-api.png" alt="Firefox Vibrator API" width="320" height="569" /></a> Firefox Vibrator API[/caption]</p>
+<p>Here with Firefox OS Vibrator API we are able to produce 3 different types of Vibration and also we are able to stop the vibration.</p>
+<h2><strong>Vibrate Once</strong></h2>
+<p><em><strong>window.navigator.vibrate([1000]); or window.navigator.vibrate(1000);</strong></em></p>
+<p>In this type of Vibration we will be making the device to vibrate only once for 1000ms.</p>
+<h2>Vibration Pattern</h2>
+<p><em><strong>window.navigator.vibrate([1000, 1000, 1000,1000,1000,1000,1000]);</strong></em></p>
+<p>Here we are giving the sequence of patterns in which the vibration should happen. The Odd positioned number says the amount of time to vibrate in milliseconds  while the even positioned number says the amount of time to pause between two vibrations.</p>
+<h2 id="Continued_vibrations">Continued vibrations</h2>
+<p>In this type of Vibration we can pause for few moment, and then start again the vibration and it happens continuously. Most of the time when we have Vibrate and then ring follows this patterns, until the user picks the call, it will be vibrating for few seconds and rest of few seconds and the loop goes on.</p>
+<h2>Stop Vibration</h2>
+<p>It is also important to know how to stop vibration. It is very simple we need to give the duration of Vibration as 0 ms like below</p>
+<p><em><strong>navigator.vibrate(0);</strong></em></p>
+<p>Vibration will be very useful for game developers and it is exciting to use for various other purpose also.</p>
+<p>You can find the github source of the <a href="https://github.com/viswaprasath/Vibrator-App" target="_blank">Vibrator application</a> and can re-use according to your app need.</p>

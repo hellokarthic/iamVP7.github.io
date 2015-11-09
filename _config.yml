@@ -1,0 +1,43 @@
+name: IamVP7 Blogging Site
+description: Blogging about mobile API's and random fav things
+meta_description: "IamVP7 blogging website who blogs about Mobile application API's and his workshop experience"
+gems: [jekyll-paginate]
+aboutPage: true
+
+markdown: redcarpet
+highlighter: pygments
+
+paginate: 5
+paginate_path: "page:num"
+baseurl: /
+domain_name: 'http://iamVP7.github.io/'
+google_analytics: 'UA-XXXXXXXX-X'
+disqus: true
+disqus_shortname: 'iamvp7'
+
+# Details for the RSS feed generator
+url:            'http://iamVP7.github.io/'
+author:         'IamVP7'
+authorTwitter:  'IamVP7'
+
+permalink:       /:year/:month/:title/
+
+defaults:
+    -
+        scope:
+            path: "" # empty string for all files
+            type: pages
+        values:
+            layout: default
+    -
+        scope:
+            path: "" # empty string for all files
+            type: posts
+        values:
+            layout: post
+    -
+        scope:
+            path: ""
+            type: drafts
+        values:
+            layout: post

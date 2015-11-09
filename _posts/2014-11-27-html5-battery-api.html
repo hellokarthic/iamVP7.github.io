@@ -1,0 +1,60 @@
+---
+layout: post
+title: HTML5 Battery API
+date: 2014-11-27 22:02:00.000000000 +05:30
+type: post
+published: true
+status: publish
+categories:
+- Chrome Externsion
+- Firefox OS
+tags: []
+meta:
+  blogger_blog: www.technoruler.com
+  blogger_author: VISWAPRASATH KS
+  blogger_cb097c283b9bbfde97b4822e7250157d_permalink: '5317241752921974677'
+author:
+  login: viswaprasath
+  email: shihan.viswa@gmail.com
+  display_name: Vitchu
+  first_name: ''
+  last_name: ''
+---
+<div dir="ltr" style="text-align:left;">
+<p>W3C have recently <a href="http://www.w3.org/TR/battery-status/" target="_blank" rel="nofollow">[ 28th August 2014]</a> introduced  Battery API which is compatible with browsers. Previously Mozilla had <a href="https://developer.mozilla.org/en-US/docs/Web/API/Navigator.battery" target="_blank" rel="nofollow">Battery API</a> for their Firefox OS.</p>
+<p>The aim of this experiment is to write a certain line of code so we can use in both Firefox OS and also as Chrome Extension.</p>
+<p>Here we need several files</p>
+<p>index.html<br />
+app.js<br />
+manifest.webapp for Firefox OS<br />
+manifest.json  for Chrome</p>
+<p>I would like to explain only the <b>API part </b></p>
+<p>First we have to get whether it is Firefox environment or Chrome.</p>
+<p>Then after that we can easily get the battery level, battery charging time,  battery dis charging time and level of charge.</p>
+<blockquote class="tr_bq"><p>battery.charging is used to know whether we are charging.<br />
+battery.level is used to know the current battery level.<br />
+battery.dischargingTime  is used to know how long it will take to discharge.<br />
+battery.chargingTime  is used to know how long it will take to charge.</p></blockquote>
+<p>Then you can easily load your app to Firefox OS and Chrome extension. The output will be displayed as below</p>
+<table class="tr-caption-container" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td style="text-align:center;"><a style="margin-left:auto;margin-right:auto;" href="http://technorulerin.files.wordpress.com/2014/11/ed429-chrome.jpeg"><img title="Chrome Extension Battery API" src="{{ site.baseurl }}/assets/ed429-chrome.jpeg" alt="Chrome Extension Battery API" width="400" height="200" border="0" /></a></td>
+</tr>
+<tr>
+<td class="tr-caption" style="text-align:center;">Chrome Extension Battery API</td>
+</tr>
+</tbody>
+</table>
+<table class="tr-caption-container" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td style="text-align:center;"><a style="margin-left:auto;margin-right:auto;" href="http://technorulerin.files.wordpress.com/2014/11/274d1-firefox.png"><img title="Firefox Battery API" src="{{ site.baseurl }}/assets/274d1-firefox.png" alt="Firefox Battery API" width="235" height="400" border="0" /></a></td>
+</tr>
+<tr>
+<td class="tr-caption" style="text-align:center;">Firefox Battery API</td>
+</tr>
+</tbody>
+</table>
+<p>You can also download the source code from <a href="https://github.com/viswaprasath/Apps/tree/master/Battery%20app" target="_blank" rel="nofollow">Github</a> and try in your local machine.</p>
+</div>

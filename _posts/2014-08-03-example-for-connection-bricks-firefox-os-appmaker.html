@@ -1,0 +1,63 @@
+---
+layout: post
+title: Example for Connection Bricks Firefox OS Appmaker
+date: 2014-08-03 16:32:00.000000000 +05:30
+type: post
+published: true
+status: publish
+categories:
+- Firefox
+- Firefox OS
+- Firefox OS Apps
+- Firefox OS Tutorials
+tags: []
+meta:
+  blogger_blog: www.technoruler.com
+  blogger_author: VISWAPRASATH KS
+  blogger_cb097c283b9bbfde97b4822e7250157d_permalink: '5988165891029677121'
+author:
+  login: viswaprasath
+  email: shihan.viswa@gmail.com
+  display_name: Vitchu
+  first_name: ''
+  last_name: ''
+---
+<div dir="ltr" style="text-align:left;">
+<div style="text-align:justify;">We have gone through how connection bricks work in our <a href="http://technoruler.blogspot.in/2014/07/connection-bricks-of-appmaker-for.html" target="_blank">Connection Bricks  for Firefox OS</a> blog post. With the help of the Connection bricks we can achieve a lot of things we would like to do. </div>
+<div style="text-align:justify;"></div>
+<div style="text-align:justify;"><a href="http://technorulerin.files.wordpress.com/2014/08/eafca-gates.png" style="clear:right;float:right;margin-bottom:1em;margin-left:1em;"><img border="0" src="{{ site.baseurl }}/assets/eafca-gates.png" height="320" width="242" /></a>Here we would like to see some of the bricks and how they are acting when they are used. For our example we have used</div>
+<ul style="text-align:justify;">
+<li>Alternating Gate</li>
+<li>Boolean Gate</li>
+<li>Signal Transformer</li>
+<li>Button</li>
+<li>Text</li>
+<li>Channel Gate</li>
+<li>Channel Combiner</li>
+</ul>
+<div style="text-align:justify;"></div>
+<div style="text-align:justify;"><b>Alternating Gate.</b></div>
+<div style="text-align:justify;">Here we have used it to give the action which we get from the button. And we will send two different outputs to transformer.</div>
+<div style="text-align:justify;"></div>
+<div style="text-align:justify;"><b>Boolean Gate</b></div>
+<div style="text-align:justify;">Here it is used for Checking whether the value from the button is "Shoot Me"  or not.</div>
+<div style="text-align:justify;"></div>
+<div style="text-align:justify;"><b>Signal Transformer</b></div>
+<div style="text-align:justify;">It is used for changing the names of the buttons.</div>
+<div style="text-align:justify;"></div>
+<div style="text-align:justify;"></div>
+<div style="text-align:justify;"><b>Channel Gate</b></div>
+<div style="text-align:justify;">We will receive the signal from the button and send it to Boolean Gate so if it is true we will set it to button. And in another channel we just receive and will not pass any where. </div>
+<div style="text-align:justify;"></div>
+<div style="text-align:justify;"><b>Channel Combiner</b></div>
+<div style="text-align:justify;">We will get both the inputs from the Boolean Gate and we will set the values to the Text box.</div>
+<div style="text-align:justify;"></div>
+<div style="text-align:justify;"><b><i>The follow of the application is as follows.</i></b></div>
+<ul style="text-align:left;">
+<li>The user will be allowed to click the button.</li>
+<li>At that time Gate A of Channel Gate will be active. So it will send the value to boolean to check since it will be true, true is set to button.</li>
+<li>In case Gate B of channel Gate is active we will be sending the boolean output to the transformer, and the transformed values are send to the Channel Combiner it will set at the Text and also in the button. </li>
+</ul>
+<div style="text-align:justify;"></div>
+<div style="text-align:justify;">You can look at the <a href="https://fretful-oil-485.webmak.es/app" target="_blank">app</a> for the demo, and feel free to<a href="https://apps.webmaker.org/designer?remix=https%253A%252F%252Ffretful-oil-485.webmak.es%252Fapp" target="_blank"> remix</a> at any time.</div>
+</div>

@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>IamVP7 Blogging Site - Connection bricks of Appmaker for Firefox OS</title>
+  <link rel="shortcut icon" href="/assets/images/favicon.ico">
+  <link rel="stylesheet" href="/assets/css/style.css">
+  <link rel="alternate" type="application/rss+xml" title="My Blog" href="/rss.xml">
+  <link rel="stylesheet" href="/assets/css/highlight.css">
+</head>
+<body>
+
+  <nav class="main-nav">
+    
+        <a href="/"> <span class="arrow">←</span> Home </a>
+    
+
+    
+        
+            <a href="/about">About </a>
+        
+    
+    <a class="cta" href="/feed.xml">Subscribe</a>
+</nav>
+
+  
+
+  <section id="wrapper" class="">
+    <article class="post">
+    <header>
+        <h1>Connection bricks of Appmaker for Firefox OS</h1>
+        <h2 class="headline">July 29, 2014</h2>
+    </header>
+    <section id="post-body">
+        <div dir="ltr" style="text-align:left;">
+<div style="text-align:justify;">In this post we will be seeing about the Connection bricks which are available for developing the application. They don't do much work, they receive the signal and depending on the behavior they have they will be giving the signal output in different manner.</div>
+<p><a href="http://technorulerin.files.wordpress.com/2014/07/27af4-channelbricks.png" style="clear:right;float:right;margin-bottom:1em;margin-left:1em;text-align:justify;"><img border="0" src="//assets/27af4-channelbricks.png" height="320" width="210" /></a>
+<div style="text-align:justify;"></div>
+<p>
+<div style="text-align:justify;">The list of Connection bricks are as follows.</div>
+<p>
+<ul style="text-align:left;">
+<li style="text-align:justify;">Alternating Gate</li>
+<li style="text-align:justify;">Boolean Gate</li>
+<li style="text-align:justify;">Channel combiner</li>
+<li style="text-align:justify;">Channel Gate</li>
+<li style="text-align:justify;">Channel Splitter</li>
+<li style="text-align:justify;">Signal transformer</li>
+</ul>
+<div style="text-align:justify;"></div>
+<div style="text-align:justify;">The usage of the Channel bricks will be mostly seeing during our digital logic class room. The things which we did there can be easily built here also.</div>
+<div style="text-align:justify;"><b><br /></b></div>
+<div style="text-align:justify;"><b>Alternating Gate</b></div>
+<div style="text-align:justify;">Here we will be receiving the signal from a source and then we will be having 2 gates to send the two different output signals. We can also set the number of times before each switch should happen.</div>
+<div style="text-align:justify;"></div>
+<div style="text-align:justify;"><b>Boolean Gate</b></div>
+<div style="text-align:justify;">It is used to check whether the value we received matches with the value we have told to check with. The value we need to check is given under Check if</div>
+<div style="text-align:justify;"></div>
+<div style="text-align:justify;"><b>Channel Combiner</b></div>
+<div style="text-align:justify;">It will get the input and combine to one output. It has the ability to get 2 to 6 inputs and give it to one output source. The outputs will be based on First come First serve basis. If two inputs came then the input which came first will goto output first and others follow it. The time gap is also in simple milli-seconds.</div>
+<div style="text-align:justify;"></div>
+<div style="text-align:justify;"><b>Channel Gate</b></div>
+<div style="text-align:justify;">It will receive a single input and can send output upto 6 channel. It is in one way similar to Alternating gate, but Alternating Gate is automatic and changes periodically but here we have to change the input gate during the time of app running.</div>
+<div style="text-align:justify;"></div>
+<div style="text-align:justify;"><b>Channel Splitter</b></div>
+<div style="text-align:justify;">Here we can get 1 input and can give upto maximum of 6 output channel. It is opposite to the channel combiner.</div>
+<div style="text-align:justify;"></div>
+<div style="text-align:justify;"><b>Signal Transformer</b></div>
+<div style="text-align:justify;">It will be receiving the value and will be transforming the value as we would like to have. We can give the value which we would like to see in the Message property.</div>
+<div style="text-align:justify;"></div>
+</div>
+
+    
+
+	
+
+</section>	
+</article>
+<footer id="post-meta" class="clearfix">
+    <a href="http://twitter.com/IamVP7">
+        <img class="avatar" src="http://www.gravatar.com/avatar/41c39033134359ca0171685f5171d298">
+        <div>
+            <span class="dark">IamVP7</span>
+            <span>Blogging about mobile API's and random fav things</span>
+        </div>
+    </a>
+<p></p>
+    <section id="sharing">
+        <a class="twitter" href="https://twitter.com/intent/tweet?text=http://yourblog-domain.com/2014/07/connection-bricks-of-appmaker-for-firefox-os/ - Connection bricks of Appmaker for Firefox OS by @IamVP7"><span class="icon-twitter"> Tweet</span></a>
+
+<a class="facebook" href="#" onclick="
+    window.open(
+      'https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(location.href),
+      'facebook-share-dialog',
+      'width=626,height=436');
+    return false;"><span class="icon-facebook-rect"> Share</span>
+</a>
+    </section>
+</footer>
+
+<!-- Disqus comments -->
+
+    <div class="archive readmore">
+        <h3>Comments</h3>
+        <section class="disqus">
+    <div id="disqus_thread"></div>
+    <script type="text/javascript">
+        var disqus_shortname = 'iamvp7';
+        var disqus_developer = 0; // developer mode is on
+        (function() {
+            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+            dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+    <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+</section>
+    </div>
+
+
+<!-- Archive post list -->
+
+
+
+
+
+  </section>
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+  <script src="/assets/js/main.js"></script>
+  <script src="/assets/js/highlight.js"></script>
+  <script>hljs.initHighlightingOnLoad();</script>
+
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-XXXXXXXX-X', 'auto');
+    ga('send', 'pageview');
+  </script>
+</body>
+</html>
+
+
+

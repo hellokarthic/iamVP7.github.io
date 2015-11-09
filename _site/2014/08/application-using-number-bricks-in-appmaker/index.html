@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>IamVP7 Blogging Site - Application Using Number bricks in Appmaker</title>
+  <link rel="shortcut icon" href="/assets/images/favicon.ico">
+  <link rel="stylesheet" href="/assets/css/style.css">
+  <link rel="alternate" type="application/rss+xml" title="My Blog" href="/rss.xml">
+  <link rel="stylesheet" href="/assets/css/highlight.css">
+</head>
+<body>
+
+  <nav class="main-nav">
+    
+        <a href="/"> <span class="arrow">←</span> Home </a>
+    
+
+    
+        
+            <a href="/about">About </a>
+        
+    
+    <a class="cta" href="/feed.xml">Subscribe</a>
+</nav>
+
+  
+
+  <section id="wrapper" class="">
+    <article class="post">
+    <header>
+        <h1>Application Using Number bricks in Appmaker</h1>
+        <h2 class="headline">August 3, 2014</h2>
+    </header>
+    <section id="post-body">
+        <div dir="ltr" style="text-align:left;">
+<div style="text-align:justify;"><a style="clear:right;float:right;margin-bottom:1em;margin-left:1em;" href="http://technorulerin.files.wordpress.com/2014/08/34af6-numbergameusingnumberbricks.png"><img src="//assets/34af6-numbergameusingnumberbricks.png" alt="" width="227" height="320" border="0" /></a>We have already discussed about what are the different components in the number bricks in one of our previous post<a href="http://technoruler.blogspot.in/2014/07/number-bricks-by-appmaker-for-firefox-os.html" target="_blank"> Number bricks by Appmaker for Firefox OS.</a> We very well know that all the 3 bricks are depends on various other bricks to do action. We will use some basic bricks along with this to show the demo.</div>
+<div style="text-align:justify;"></div>
+<div style="text-align:justify;">We will be using following components</div>
+<ul style="text-align:justify;">
+<li>Header</li>
+<li>Counter</li>
+<li>Daily Counter</li>
+<li>Random Number Generator</li>
+<li>Text box</li>
+<li>Button</li>
+</ul>
+<div style="text-align:justify;"><b>Header</b></div>
+<div style="text-align:justify;">We will be placing it at the top and it is first brick. We will be using it for giving the name for the application. Even though it is given in project area it is always nice to give here for one page applications. It is static content as of now.</div>
+<div style="text-align:justify;"></div>
+<div style="text-align:justify;"><b>Counter </b></div>
+<div style="text-align:justify;">Here it is used to get the values from 0 to 3. We will get the output from this whenever it gets incremented. And send to a boolean gate checker.</div>
+<div style="text-align:justify;"></div>
+<div style="text-align:justify;"><b>Boolean Gate</b></div>
+<div style="text-align:justify;">We will get the value from the counter and check whether it is 3. If it is equal to 3 we will reset the counter. And depending on the boolean true or false we will send to two different counters.</div>
+<div style="text-align:justify;"></div>
+<div style="text-align:justify;"><b>Daily Counter</b></div>
+<div style="text-align:justify;">We will get some period signals for this between some period of time. In our application it will be coming when the value is true from Boolean Gate and we will send the text value from here.</div>
+<div style="text-align:justify;"><b> </b></div>
+<div style="text-align:justify;"><b>Random Number Generator</b></div>
+<div style="text-align:justify;">We will get random numbers from here. We have made to create some random number between 0 and 20.  In our application it will be coming when the value is false from Boolean Gate and we will send the text value from here.</div>
+<div style="text-align:justify;"></div>
+<div style="text-align:justify;"><b>Text box</b></div>
+<div style="text-align:justify;">As we mentioned above we will get the input from Daily counter and Random Number Generator.</div>
+<div style="text-align:justify;"></div>
+<div style="text-align:justify;"><b>Button</b></div>
+<div style="text-align:justify;">Whenever we click the Counter gets activated.</div>
+<div style="text-align:justify;"></div>
+<div style="text-align:justify;">The follow of the application is as follows.</div>
+<div style="text-align:justify;">We will click the button.</div>
+<div style="text-align:justify;">The button will send input to Counter.</div>
+<div style="text-align:justify;">Counter will send the number to Boolean Gate, which is checked whether it is 3 or not.</div>
+<div style="text-align:justify;">If it is equal to 3 then Daily counter is activated and number is generated and sent to Text box.</div>
+<div style="text-align:justify;">If it is false a random number will be generated sent to Text box.</div>
+<div style="text-align:justify;"></div>
+<div style="text-align:justify;">Feel free to <a href="https://makeshift-rings-469.webmak.es/app" target="_blank">run</a> the application in browser</div>
+<div style="text-align:justify;">You can also try to <a href="https://apps.webmaker.org/designer?remix=https%253A%252F%252Fmakeshift-rings-469.webmak.es%252Fapp" target="_blank">remix it</a> and change according to your need.</div>
+<div id="stcpDiv" style="left:-1988px;position:absolute;text-align:justify;top:-1999px;">Number bricks by Appmaker for Firefox OS.</p>
+<div id="stcpDiv" style="left:-1988px;position:absolute;top:-1999px;">Number bricks by Appmaker for Firefox OS.</div>
+</div>
+</div>
+
+    
+
+	
+
+</section>	
+</article>
+<footer id="post-meta" class="clearfix">
+    <a href="http://twitter.com/IamVP7">
+        <img class="avatar" src="http://www.gravatar.com/avatar/41c39033134359ca0171685f5171d298">
+        <div>
+            <span class="dark">IamVP7</span>
+            <span>Blogging about mobile API's and random fav things</span>
+        </div>
+    </a>
+<p></p>
+    <section id="sharing">
+        <a class="twitter" href="https://twitter.com/intent/tweet?text=http://yourblog-domain.com/2014/08/application-using-number-bricks-in-appmaker/ - Application Using Number bricks in Appmaker by @IamVP7"><span class="icon-twitter"> Tweet</span></a>
+
+<a class="facebook" href="#" onclick="
+    window.open(
+      'https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(location.href),
+      'facebook-share-dialog',
+      'width=626,height=436');
+    return false;"><span class="icon-facebook-rect"> Share</span>
+</a>
+    </section>
+</footer>
+
+<!-- Disqus comments -->
+
+    <div class="archive readmore">
+        <h3>Comments</h3>
+        <section class="disqus">
+    <div id="disqus_thread"></div>
+    <script type="text/javascript">
+        var disqus_shortname = 'iamvp7';
+        var disqus_developer = 0; // developer mode is on
+        (function() {
+            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+            dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+    <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+</section>
+    </div>
+
+
+<!-- Archive post list -->
+
+
+
+
+
+  </section>
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+  <script src="/assets/js/main.js"></script>
+  <script src="/assets/js/highlight.js"></script>
+  <script>hljs.initHighlightingOnLoad();</script>
+
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-XXXXXXXX-X', 'auto');
+    ga('send', 'pageview');
+  </script>
+</body>
+</html>
+
+
+
