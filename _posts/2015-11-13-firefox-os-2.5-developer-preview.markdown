@@ -8,6 +8,19 @@ tags: [firefoxos]
 
 Firefox OS is one of the awesome OS which is promoting Web, user privacy and customization. As of now Firefox 2.5 is not available in many consumer based device. Recently Mozilla Firefox OS team came with interesting idea to develop a small Android based Application with which we can try Firefox OS in any android device.
 
-The full story about this can be found in [Mozilla Hacks blog][https://hacks.mozilla.org/2015/11/firefox-os-2-5-developer-preview-an-experimental-android-app/]. Some of the experiments done using this Android app in Nexus 6.
+The full story about this can be found in [Mozilla Hacks blog](https://hacks.mozilla.org/2015/11/firefox-os-2-5-developer-preview-an-experimental-android-app/). Some of the experiments done using this Android app in Nexus 6.
 
 ![Nice Home Screen]({{ site.url }}/assets/home.png)
+
+Some of awesome things due to this Android app
+- We are able to download the Firefox OS apps from Firefox Marketplace and try running them. We can test how the app works in Firefox OS using our Android itself.
+- All Android apps running are working properly without any problem.
+- We can easily learn about the default system apps coming with Firefox OS.
+- Can share the bugs if there is anything and help community to grow.
+
+Some of the problems faced or user experience issues
+- Notification bar of Android is not easier to access, sometimes I am dragging two Notification bars.
+- Images previously taken without Firefox OS launcher is not recoganised by gallery app.
+
+Still there are lot of things to explore using this launcher. It is really a great opportunity for Mobile  web app developers who would love to develop Firefox OS apps and/or Mobile web apps.
+ 
