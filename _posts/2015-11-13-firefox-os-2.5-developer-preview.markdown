@@ -8,4 +8,6 @@ tags: [firefoxos]
 
 Firefox OS is one of the awesome OS which is promoting Web, user privacy and customization. As of now Firefox 2.5 is not available in many consumer based device. Recently Mozilla Firefox OS team came with interesting idea to develop a small Android based Application with which we can try Firefox OS in any android device.
 
-The full story about this can be found in [Mozilla Hacks blog] [https://hacks.mozilla.org/2015/11/firefox-os-2-5-developer-preview-an-experimental-android-app/].
+The full story about this can be found in [Mozilla Hacks blog][https://hacks.mozilla.org/2015/11/firefox-os-2-5-developer-preview-an-experimental-android-app/]. Some of the experiments done using this Android app in Nexus 6.
+
+![Nice Home Screen]({{ site.url }}/assets/home.png)
