@@ -45,6 +45,21 @@ archive: true
     </section>
 </footer>
 
+<!-- Pagination links -->
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
+  {% else %}
+    <span class="previous">Previous</span>
+  {% endif %}
+  <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+  {% else %}
+    <span class="next ">Next</span>
+  {% endif %}
+</div>
+
 <!-- Disqus comments -->
 {% if site.disqus %}
     <div class="archive readmore">
@@ -57,7 +72,7 @@ archive: true
 {% if page.archive %}
     <ul id="post-list" class="archive readmore">
         <h3>Read more</h3>
-        {% for post in site.posts %}
+	{% for post in site.posts %}
             <li>
                 <a href="{{ site.baseurl }}{{ post.url | remove_first: '/' }}">{{ post.title }}<aside class="dates">{{ post.date | date:"%b %d" }}</aside></a>
             </li>
