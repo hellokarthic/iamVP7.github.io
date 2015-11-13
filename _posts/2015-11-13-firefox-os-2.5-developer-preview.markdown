@@ -1,0 +1,6 @@
+---
+title:  "Firefox OS 2.5 Developer Preview"
+date:   2015-11-13 20:18:00
+description: Firefox OS 2.5 Developer Preview, an experimental Android app
+---
+
