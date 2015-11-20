@@ -1,6 +1,6 @@
 ---
 title:  "Google Maps catching more data"
-date:   2015-11-19 13:20:00
+date:   2015-11-20 13:20:00
 description: Google Maps catching many players
 categories: Social network
 tags: [google]
