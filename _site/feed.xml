@@ -1,10 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
-    <title>IamVP7 Blogging Site</title>
+    <title>Technoruler</title>
     <description>Blogging about mobile API&#39;s and random fav things</description>
-    <link>http://your-blog-url.example.com</link>
-    <atom:link href="http://your-blog-url.example.com/feed.xml" rel="self" type="application/rss+xml" />
+    <link>http://iamVP7.github.io/</link>
+    <atom:link href="http://iamVP7.github.io//feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Google Local Guide</title>
+        
+        
+          <description>&lt;p&gt;Google Map Maker was one of the exciting tool used by Google to collect data for the Good maps. Recently Google faced lot of issues with this tool in different countries, after all problem recently they are back with this tool. Now it is revamped and we can see along with the Google Maps itself.&lt;/p&gt;
+</description>
+        
+        <pubDate>Sat, 21 Nov 2015 02:50:00 +0530</pubDate>
+        <link>http://iamVP7.github.io//2015/11/Google-local-guide/</link>
+        <guid isPermaLink="true">http://iamVP7.github.io//2015/11/Google-local-guide/</guid>
+      </item>
+    
+      <item>
+        <title>Google Maps catching more data</title>
+        
+        
+          <description>&lt;p&gt;Everyone know Google Maps is most awesome tool to find the navigation and business places. But there were some of the features which were not available in the mobile version previously, like there was no offline features and to add new places we may have to use another website which was called as mapmaker.&lt;/p&gt;
+</description>
+        
+        <pubDate>Fri, 20 Nov 2015 18:50:00 +0530</pubDate>
+        <link>http://iamVP7.github.io//2015/11/Google-Maps-catching-more-data/</link>
+        <guid isPermaLink="true">http://iamVP7.github.io//2015/11/Google-Maps-catching-more-data/</guid>
+      </item>
+    
+      <item>
+        <title>Google plus isn’t dead its slow renovating itself</title>
+        
+        
+          <description>&lt;p&gt;&lt;img src=&quot;http://iamVP7.github.io//assets/google.gif&quot; alt=&quot;New Google+&quot;&gt;&lt;/p&gt;
+</description>
+        
+        <pubDate>Thu, 19 Nov 2015 18:50:00 +0530</pubDate>
+        <link>http://iamVP7.github.io//2015/11/Google-plus-isnt-dead-its-slow-renovating-itself/</link>
+        <guid isPermaLink="true">http://iamVP7.github.io//2015/11/Google-plus-isnt-dead-its-slow-renovating-itself/</guid>
+      </item>
+    
+      <item>
+        <title>Happy birthday Firefox</title>
+        
+        
+          <description>&lt;p&gt;On November 9th 2015 Mozilla Firefox has celebrated its 11th Birthday. On November 2004 Firefox 1.0 was released. The main aim of the launch of this new browser at that time was to protect Users privacy and have, till now Firefox browser protects users privacy and security and being open source is their main concentration. Firefox browser is not developed only by Mozilla employees but it is contributed by main contributors all around the world.&lt;/p&gt;
+</description>
+        
+        <pubDate>Sun, 15 Nov 2015 01:32:00 +0530</pubDate>
+        <link>http://iamVP7.github.io//2015/11/happy-birthday-firefox/</link>
+        <guid isPermaLink="true">http://iamVP7.github.io//2015/11/happy-birthday-firefox/</guid>
+      </item>
+    
+      <item>
+        <title>Firefox OS 2.5 Developer Preview</title>
+        
+        
+          <description>&lt;p&gt;Firefox OS is one of the awesome OS which is promoting Web, user privacy and customization. As of now Firefox 2.5 is not available in many consumer based device. Recently Mozilla Firefox OS team came with interesting idea to develop a small Android based Application with which we can try Firefox OS in any android device.&lt;/p&gt;
+</description>
+        
+        <pubDate>Sat, 14 Nov 2015 01:48:00 +0530</pubDate>
+        <link>http://iamVP7.github.io//2015/11/firefox-os-2.5-developer-preview/</link>
+        <guid isPermaLink="true">http://iamVP7.github.io//2015/11/firefox-os-2.5-developer-preview/</guid>
+      </item>
     
       <item>
         <title>Making your HTML website to Firefox OS app</title>
@@ -61,8 +121,8 @@
 </description>
         
         <pubDate>Wed, 19 Aug 2015 18:58:13 +0530</pubDate>
-        <link>http://your-blog-url.example.com/2015/08/making-your-html-website-to-firefox-os-app/</link>
-        <guid isPermaLink="true">http://your-blog-url.example.com/2015/08/making-your-html-website-to-firefox-os-app/</guid>
+        <link>http://iamVP7.github.io//2015/08/making-your-html-website-to-firefox-os-app/</link>
+        <guid isPermaLink="true">http://iamVP7.github.io//2015/08/making-your-html-website-to-firefox-os-app/</guid>
       </item>
     
       <item>
@@ -105,8 +165,8 @@
 </description>
         
         <pubDate>Wed, 15 Jul 2015 20:34:28 +0530</pubDate>
-        <link>http://your-blog-url.example.com/2015/07/connection-with-mozilla-communities-in-irc/</link>
-        <guid isPermaLink="true">http://your-blog-url.example.com/2015/07/connection-with-mozilla-communities-in-irc/</guid>
+        <link>http://iamVP7.github.io//2015/07/connection-with-mozilla-communities-in-irc/</link>
+        <guid isPermaLink="true">http://iamVP7.github.io//2015/07/connection-with-mozilla-communities-in-irc/</guid>
       </item>
     
       <item>
@@ -158,8 +218,8 @@ Hello World!!&lt;br /&gt;
 </description>
         
         <pubDate>Tue, 14 Jul 2015 20:54:00 +0530</pubDate>
-        <link>http://your-blog-url.example.com/2015/07/cloning-the-source-from-github-to-local-machine/</link>
-        <guid isPermaLink="true">http://your-blog-url.example.com/2015/07/cloning-the-source-from-github-to-local-machine/</guid>
+        <link>http://iamVP7.github.io//2015/07/cloning-the-source-from-github-to-local-machine/</link>
+        <guid isPermaLink="true">http://iamVP7.github.io//2015/07/cloning-the-source-from-github-to-local-machine/</guid>
       </item>
     
       <item>
@@ -180,8 +240,8 @@ Hello World!!&lt;br /&gt;
 </description>
         
         <pubDate>Wed, 08 Jul 2015 19:32:32 +0530</pubDate>
-        <link>http://your-blog-url.example.com/2015/07/creating-github-website/</link>
-        <guid isPermaLink="true">http://your-blog-url.example.com/2015/07/creating-github-website/</guid>
+        <link>http://iamVP7.github.io//2015/07/creating-github-website/</link>
+        <guid isPermaLink="true">http://iamVP7.github.io//2015/07/creating-github-website/</guid>
       </item>
     
       <item>
@@ -200,143 +260,8 @@ Hello World!!&lt;br /&gt;
 </description>
         
         <pubDate>Wed, 08 Jul 2015 17:55:46 +0530</pubDate>
-        <link>http://your-blog-url.example.com/2015/07/creating-github-account/</link>
-        <guid isPermaLink="true">http://your-blog-url.example.com/2015/07/creating-github-account/</guid>
-      </item>
-    
-      <item>
-        <title>Mozilla Location Services</title>
-        
-        
-          <description>&lt;p&gt;Many people thinking that contributing to Mozilla is very difficult to start. But it is much easier than they consider. There are many lot of ways to contribute. One Among them  in &lt;a href=&quot;https://location.services.mozilla.com&quot; target=&quot;_blank&quot;&gt;Mozilla Location Service.&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Here I would like to share my views as an Individual how we are contribute to the Mozilla Location Service. In this world many people are Android device users. With your mobile in your hand you can contribute to Mozilla Location Service easily. And also with growing &lt;a href=&quot;https://technorulerin.wordpress.com/2015/01/15/top-10-firefox-os-devices/&quot; target=&quot;_blank&quot;&gt;Firefox OS based devices&lt;/a&gt; you can contribute to this project.&lt;/p&gt;
-&lt;p&gt;First you have to download Application for you mobile, Android users can goto Marketplace for downloading &lt;a href=&quot;https://play.google.com/store/apps/details?id=org.mozilla.mozstumbler&quot; target=&quot;_blank&quot;&gt;Mozilla stumbler for Android&lt;/a&gt; and Firefox OS user have to fork and download zip from &lt;a href=&quot;https://github.com/clochix/FxStumbler&quot; target=&quot;_blank&quot;&gt;github&lt;/a&gt;, and then with the help of &lt;a href=&quot;https://technorulerin.wordpress.com/2014/11/11/get-started-with-mozillas-webide/&quot; target=&quot;_blank&quot;&gt;WebIDE&lt;/a&gt; in &lt;a href=&quot;https://technorulerin.wordpress.com/2014/11/10/firefox-introduced-developer-edition-of-browser/&quot; target=&quot;_blank&quot;&gt;Firefox developer Edition&lt;/a&gt; you can push it in your device.&lt;/p&gt;
-&lt;p&gt;The below mentioned steps are suitable for Android device and Firefox OS devices, but used Android device for Example.&lt;/p&gt;
-&lt;p&gt;Step1: Enable Location service in you Mobile&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://technorulerin.files.wordpress.com/2015/06/1-location_services_on.png&quot;&gt;&lt;img class=&quot;aligncenter wp-image-440 size-medium&quot; src=&quot;//assets/1-location_services_on.png?w=169&quot; alt=&quot;Enabling Location services in Mobile&quot; width=&quot;169&quot; height=&quot;300&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Without enabling Location service, it is not possible to capture latitude and longitude. So before starting the application it is good to start it.&lt;/p&gt;
-&lt;p&gt;Step 2: First time run&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://technorulerin.files.wordpress.com/2015/06/2_firsttime_run.png&quot;&gt;&lt;img class=&quot; size-medium wp-image-441 aligncenter&quot; src=&quot;//assets/2_firsttime_run.png?w=169&quot; alt=&quot;2_FirstTime_Run&quot; width=&quot;169&quot; height=&quot;300&quot; /&gt;&lt;/a&gt;Step 3: Viewing Reports for First Time&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://technorulerin.files.wordpress.com/2015/06/3_noreportsgenerated.png&quot;&gt;&lt;img class=&quot; size-medium wp-image-442 aligncenter&quot; src=&quot;//assets/3_noreportsgenerated.png?w=169&quot; alt=&quot;No Reports generated while creating&quot; width=&quot;169&quot; height=&quot;300&quot; /&gt;&lt;/a&gt;Step 4: Creating Nick Name and Email ID&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://technorulerin.files.wordpress.com/2015/06/4_nickname_mailid.png&quot;&gt;&lt;img class=&quot; size-medium wp-image-443 aligncenter&quot; src=&quot;//assets/4_nickname_mailid.png?w=169&quot; alt=&quot;Creating Nick Name and Email ID&quot; width=&quot;169&quot; height=&quot;300&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Step 5: Mention when to stop based on battery level&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://technorulerin.files.wordpress.com/2015/06/5_whentostop.png&quot;&gt;&lt;img class=&quot; size-medium wp-image-444 aligncenter&quot; src=&quot;//assets/5_whentostop.png?w=169&quot; alt=&quot;Stop at 15%&quot; width=&quot;169&quot; height=&quot;300&quot; /&gt;&lt;/a&gt;Step 6: Map  being loaded In open street maps&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://technorulerin.files.wordpress.com/2015/06/6_maploaded.png&quot;&gt;&lt;img class=&quot; size-medium wp-image-445 aligncenter&quot; src=&quot;//assets/6_maploaded.png?w=169&quot; alt=&quot;Maploaded In open street maps&quot; width=&quot;169&quot; height=&quot;300&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Step 7: Roaming and getting the points in reports&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://technorulerin.files.wordpress.com/2015/06/7_reports_readytosend.png&quot;&gt;&lt;img class=&quot; size-medium wp-image-446 aligncenter&quot; src=&quot;//assets/7_reports_readytosend.png?w=169&quot; alt=&quot;Roming and reports&quot; width=&quot;169&quot; height=&quot;300&quot; /&gt;&lt;/a&gt;Step 8: After sending Reports&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://technorulerin.files.wordpress.com/2015/06/8_reportssent.png&quot;&gt;&lt;img class=&quot; size-medium wp-image-447 aligncenter&quot; src=&quot;//assets/8_reportssent.png?w=169&quot; alt=&quot;8_ReportsSent&quot; width=&quot;169&quot; height=&quot;300&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;So we used to travel atleast 2 hours a day, we can switch on the location service and this application and collect the points. We can send the report. We have enabled to send reports only when we are connected to wifi, you can change the settings.&lt;/p&gt;
-&lt;p&gt;So we have to see who are all collecting their points and contributing to Mozilla, it is possible there is a simple &lt;a href=&quot;https://location.services.mozilla.com/leaders&quot; target=&quot;_blank&quot;&gt;Leaderboard&lt;/a&gt; created by Mozilla Location Service Team.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://technorulerin.files.wordpress.com/2015/06/leaderboard.png&quot;&gt;&lt;img class=&quot;aligncenter wp-image-449 size-large&quot; src=&quot;//assets/leaderboard.png?w=660&quot; alt=&quot;leaderboard&quot; width=&quot;660&quot; height=&quot;358&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;So don&#39;t wait for opportunity, start contributing to Mozilla Location Services.&lt;/p&gt;
-</description>
-        
-        <pubDate>Sat, 06 Jun 2015 00:09:53 +0530</pubDate>
-        <link>http://your-blog-url.example.com/2015/06/mozilla-location-services/</link>
-        <guid isPermaLink="true">http://your-blog-url.example.com/2015/06/mozilla-location-services/</guid>
-      </item>
-    
-      <item>
-        <title>Finding Firefox device from browser</title>
-        
-        
-          <description>&lt;p&gt;In our previous post we have seen how to &lt;a href=&quot;https://technorulerin.wordpress.com/2015/03/22/enabling-find-my-firefox-device/&quot; target=&quot;_blank&quot;&gt;Enabling Find My Firefox Device&lt;/a&gt; and now we can see how to find our device using the website.&lt;/p&gt;
-&lt;p&gt;Then we can easily find our device from &lt;a href=&quot;https://find.firefox.com/&quot; target=&quot;_blank&quot;&gt;Find My Device Website&lt;/a&gt; . First we have to visit the website, if we you have not previously created the &lt;a href=&quot;https://technorulerin.wordpress.com/2014/11/12/signing-up-for-firefox-accounts/&quot; target=&quot;_blank&quot;&gt;Firefox Account in browser&lt;/a&gt; we just need to create it. When we open our website it will look like below image.&lt;/p&gt;
-&lt;p&gt;[embed]https://www.flickr.com/photos/95790166@N06/16684775567/[/embed]&lt;/p&gt;
-&lt;p&gt;Then we can sign in. We should use same mail ID in both our phone and in our website. We should have also internet connection enabled in our device for finding the application. Once we sign-in the browser will start searching our device. Once it found them it will be sharing the location in the map.&lt;/p&gt;
-&lt;p&gt;[embed]https://www.flickr.com/photos/95790166@N06/16892112865/in/photostream/[/embed]&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Ringing Feature&lt;/em&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;The default ring tone which you have set will be heared.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Locking Feature&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;When we try to lock the device first it will ask for the simple.&lt;/li&gt;
-&lt;li&gt;Then it will ask for the passcode which we need to give for opening the device.&lt;/li&gt;
-&lt;li&gt;We then again have to conform the passcode.&lt;/li&gt;
-&lt;li&gt;The information which we gave will be displayed in the home screen.&lt;/li&gt;
-&lt;li&gt;When we try to scroll on unlocking it will ask for passcode. Once we give correct passcode it will get unlocked. And we can use our device.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Erase&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;We can also erase the data in our mobile phone, we cannot recover once we erase.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;This Find My device feature is really a amazing feature we have in our device. Which will protect our device from theft. It is so awesome to use.&lt;/p&gt;
-</description>
-        
-        <pubDate>Sun, 22 Mar 2015 11:15:31 +0530</pubDate>
-        <link>http://your-blog-url.example.com/2015/03/finding-firefox-device-from-browser/</link>
-        <guid isPermaLink="true">http://your-blog-url.example.com/2015/03/finding-firefox-device-from-browser/</guid>
-      </item>
-    
-      <item>
-        <title>Enabling Find My Firefox Device</title>
-        
-        
-          <description>How to enable Find my device in Firefox OS</description>
-        
-        <pubDate>Sun, 22 Mar 2015 09:27:59 +0530</pubDate>
-        <link>http://your-blog-url.example.com/2015/03/enabling-find-my-firefox-device/</link>
-        <guid isPermaLink="true">http://your-blog-url.example.com/2015/03/enabling-find-my-firefox-device/</guid>
-      </item>
-    
-      <item>
-        <title>Firefox OS&#39;s Vibrator API</title>
-        
-        
-          <description>&lt;p&gt;One of the Most old feature every phone had was Vibration, usually Vibration is defined to be a small pause between two shakes of the device. Nowadays the modern Mobile devices allow software code to handle the hardware and make the device to vibrate well.&lt;/p&gt;
-&lt;p&gt;[caption id=&quot;attachment_411&quot; align=&quot;alignright&quot; width=&quot;320&quot;]&lt;a href=&quot;https://technorulerin.files.wordpress.com/2015/02/firefox-vibrator-api.png&quot;&gt;&lt;img class=&quot;size-full wp-image-411&quot; src=&quot;//assets/firefox-vibrator-api.png&quot; alt=&quot;Firefox Vibrator API&quot; width=&quot;320&quot; height=&quot;569&quot; /&gt;&lt;/a&gt; Firefox Vibrator API[/caption]&lt;/p&gt;
-&lt;p&gt;Here with Firefox OS Vibrator API we are able to produce 3 different types of Vibration and also we are able to stop the vibration.&lt;/p&gt;
-&lt;h2&gt;&lt;strong&gt;Vibrate Once&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;window.navigator.vibrate([1000]); or window.navigator.vibrate(1000);&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;In this type of Vibration we will be making the device to vibrate only once for 1000ms.&lt;/p&gt;
-&lt;h2&gt;Vibration Pattern&lt;/h2&gt;
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;window.navigator.vibrate([1000, 1000, 1000,1000,1000,1000,1000]);&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Here we are giving the sequence of patterns in which the vibration should happen. The Odd positioned number says the amount of time to vibrate in milliseconds  while the even positioned number says the amount of time to pause between two vibrations.&lt;/p&gt;
-&lt;h2 id=&quot;Continued_vibrations&quot;&gt;Continued vibrations&lt;/h2&gt;
-&lt;p&gt;In this type of Vibration we can pause for few moment, and then start again the vibration and it happens continuously. Most of the time when we have Vibrate and then ring follows this patterns, until the user picks the call, it will be vibrating for few seconds and rest of few seconds and the loop goes on.&lt;/p&gt;
-&lt;h2&gt;Stop Vibration&lt;/h2&gt;
-&lt;p&gt;It is also important to know how to stop vibration. It is very simple we need to give the duration of Vibration as 0 ms like below&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;navigator.vibrate(0);&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Vibration will be very useful for game developers and it is exciting to use for various other purpose also.&lt;/p&gt;
-&lt;p&gt;You can find the github source of the &lt;a href=&quot;https://github.com/viswaprasath/Vibrator-App&quot; target=&quot;_blank&quot;&gt;Vibrator application&lt;/a&gt; and can re-use according to your app need.&lt;/p&gt;
-</description>
-        
-        <pubDate>Mon, 02 Feb 2015 19:58:21 +0530</pubDate>
-        <link>http://your-blog-url.example.com/2015/02/firefox-oss-vibrator-api/</link>
-        <guid isPermaLink="true">http://your-blog-url.example.com/2015/02/firefox-oss-vibrator-api/</guid>
-      </item>
-    
-      <item>
-        <title>Booting APC.io with Firefox OS</title>
-        
-        
-          <description>&lt;p&gt;Recently we Have seen &lt;a title=&quot;Awesome PC is only Book size&quot; href=&quot;https://technorulerin.wordpress.com/2014/12/26/awesome-pc-is-only-book-size/&quot;&gt;Unboxing APC Paper IO&lt;/a&gt; which is very small PC looks more like a notebook running Firefox OS. It is the first time I am seeing a PC running Firefox OS, I hope still it is in development Stage.  The boot time of this PC is incredible fast, it boots less than 1 min  it is very nice.&lt;/p&gt;
-&lt;p&gt;[caption id=&quot;attachment_404&quot; align=&quot;alignnone&quot; width=&quot;660&quot;]&lt;a href=&quot;https://technorulerin.files.wordpress.com/2015/01/back-setup.jpg&quot;&gt;&lt;img class=&quot;size-full wp-image-404&quot; src=&quot;//assets/back-setup.jpg&quot; alt=&quot;Backside of APC paper IO&quot; width=&quot;660&quot; height=&quot;495&quot; /&gt;&lt;/a&gt;                                    Backside of APC paper IO[/caption]&lt;/p&gt;
-&lt;p&gt;Setting-up APC paper with external hardware is very simple, we just need the following&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;USB Mouse&lt;/li&gt;
-&lt;li&gt;USB Key board&lt;/li&gt;
-&lt;li&gt;2 sided HDMI cable&lt;/li&gt;
-&lt;li&gt;LAN connected with Modem (optional)&lt;/li&gt;
-&lt;li&gt;Memory card (optional)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;APC is booting with Firefox OS 1.1&lt;/p&gt;
-&lt;p&gt;[embed]https://www.youtube.com/watch?v=lbsZXTpRUqw&amp;amp;feature=youtu.be[/embed]&lt;/p&gt;
-&lt;p&gt;After the system gets started the first screen is we need to unlock, for that we have to hold the lock button and slide from right to left.&lt;/p&gt;
-&lt;p&gt;[caption id=&quot;attachment_405&quot; align=&quot;aligncenter&quot; width=&quot;660&quot;]&lt;a href=&quot;https://technorulerin.files.wordpress.com/2015/01/1-first-screen.jpg&quot;&gt;&lt;img class=&quot;size-full wp-image-405&quot; src=&quot;//assets/1-first-screen.jpg&quot; alt=&quot;First Screen of APC with Firefox OS 1.1&quot; width=&quot;660&quot; height=&quot;495&quot; /&gt;&lt;/a&gt; First Screen of APC[/caption]&lt;/p&gt;
-&lt;p&gt;It is have a new application Prospector which is similar to File Explorer.&lt;/p&gt;
-&lt;p&gt;[caption id=&quot;attachment_407&quot; align=&quot;aligncenter&quot; width=&quot;660&quot;]&lt;a href=&quot;https://technorulerin.files.wordpress.com/2015/01/2-prospector.jpg&quot;&gt;&lt;img class=&quot;size-full wp-image-407&quot; src=&quot;//assets/2-prospector.jpg&quot; alt=&quot;Prospector&quot; width=&quot;660&quot; height=&quot;495&quot; /&gt;&lt;/a&gt;                                        Prospector[/caption]&lt;/p&gt;
-&lt;p&gt;One of the very interesting part of the settings application is it is split screen, i.e., whenever we click on the option the specification about them will appear on right side, the list of choice of settings will be static and appears on the left side.&lt;/p&gt;
-&lt;p&gt;[caption id=&quot;attachment_408&quot; align=&quot;aligncenter&quot; width=&quot;660&quot;]&lt;a href=&quot;https://technorulerin.files.wordpress.com/2015/01/6-digital-photo-fram.jpg&quot;&gt;&lt;img class=&quot;size-full wp-image-408&quot; src=&quot;//assets/6-digital-photo-fram.jpg&quot; alt=&quot;digital photo frame&quot; width=&quot;660&quot; height=&quot;495&quot; /&gt;&lt;/a&gt;                             digital photo frame[/caption]&lt;/p&gt;
-&lt;p&gt;Among settings option Digital Photo Frame seems to be new option which is not in Firefox OS, it is a simple screen saver like application so whenever we are not using the system for a specific amount of time it get activated.&lt;/p&gt;
-&lt;p&gt;[embed]https://www.youtube.com/watch?v=hV-JJ2k8kes[/embed]&lt;/p&gt;
-&lt;p&gt;There are lot of areas in which APC should be improved, since it is first try they have some little features, and it is simply awesome as of now, expecting lot of improvements in future.&lt;/p&gt;
-</description>
-        
-        <pubDate>Thu, 15 Jan 2015 20:31:56 +0530</pubDate>
-        <link>http://your-blog-url.example.com/2015/01/booting-apc-io-with-firefox-os/</link>
-        <guid isPermaLink="true">http://your-blog-url.example.com/2015/01/booting-apc-io-with-firefox-os/</guid>
+        <link>http://iamVP7.github.io//2015/07/creating-github-account/</link>
+        <guid isPermaLink="true">http://iamVP7.github.io//2015/07/creating-github-account/</guid>
       </item>
     
   </channel>

@@ -1,7 +1,7 @@
 name: Technoruler 
 description: Blogging about mobile API's and random fav things
 meta_description: "IamVP7 blogging website who blogs about Mobile application API's and his workshop experience"
-gems: [jekyll-paginate]
+gems: [jekyll-paginate, jekyll-gist]
 aboutPage: true
 
 markdown: redcarpet

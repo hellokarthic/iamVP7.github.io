@@ -10,7 +10,7 @@ Firefox OS is one of the awesome OS which is promoting Web, user privacy and cus
 
 The full story about this can be found in [Mozilla Hacks blog](https://hacks.mozilla.org/2015/11/firefox-os-2-5-developer-preview-an-experimental-android-app/). Some of the experiments done using this Android app in Nexus 6.
 
-![Nice Home Screen]({{ site.url }}/assets/home.png)
+![Nice Home Screen](http://iamvp7.github.io/assets/home.png)
 
 Some of awesome things due to this Android app
 - We are able to download the Firefox OS apps from Firefox Marketplace and try running them. We can test how the app works in Firefox OS using our Android itself.

@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Technoruler</title>
+    <description>Blogging about mobile API&#39;s and random fav things</description>
+    <link>http://iamVP7.github.io/</link>
+    <atom:link href="http://iamVP7.github.io//feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Google Local Guide</title>
+        
+        
+          <description>&lt;p&gt;Google Map Maker was one of the exciting tool used by Google to collect data for the Good maps. Recently Google faced lot of issues with this tool in different countries, after all problem recently they are back with this tool. Now it is revamped and we can see along with the Google Maps itself.&lt;/p&gt;
+</description>
+        
+        <pubDate>Sat, 21 Nov 2015 02:50:00 +0530</pubDate>
+        <link>http://iamVP7.github.io//2015/11/Google-local-guide/</link>
+        <guid isPermaLink="true">http://iamVP7.github.io//2015/11/Google-local-guide/</guid>
+      </item>
+    
+      <item>
+        <title>Google Maps catching more data</title>
+        
+        
+          <description>&lt;p&gt;Everyone know Google Maps is most awesome tool to find the navigation and business places. But there were some of the features which were not available in the mobile version previously, like there was no offline features and to add new places we may have to use another website which was called as mapmaker.&lt;/p&gt;
+</description>
+        
+        <pubDate>Fri, 20 Nov 2015 18:50:00 +0530</pubDate>
+        <link>http://iamVP7.github.io//2015/11/Google-Maps-catching-more-data/</link>
+        <guid isPermaLink="true">http://iamVP7.github.io//2015/11/Google-Maps-catching-more-data/</guid>
+      </item>
+    
+      <item>
+        <title>Google plus isn’t dead its slow renovating itself</title>
+        
+        
+          <description>&lt;p&gt;&lt;img src=&quot;http://iamVP7.github.io//assets/google.gif&quot; alt=&quot;New Google+&quot;&gt;&lt;/p&gt;
+</description>
+        
+        <pubDate>Thu, 19 Nov 2015 18:50:00 +0530</pubDate>
+        <link>http://iamVP7.github.io//2015/11/Google-plus-isnt-dead-its-slow-renovating-itself/</link>
+        <guid isPermaLink="true">http://iamVP7.github.io//2015/11/Google-plus-isnt-dead-its-slow-renovating-itself/</guid>
+      </item>
+    
+      <item>
+        <title>Happy birthday Firefox</title>
+        
+        
+          <description>&lt;p&gt;On November 9th 2015 Mozilla Firefox has celebrated its 11th Birthday. On November 2004 Firefox 1.0 was released. The main aim of the launch of this new browser at that time was to protect Users privacy and have, till now Firefox browser protects users privacy and security and being open source is their main concentration. Firefox browser is not developed only by Mozilla employees but it is contributed by main contributors all around the world.&lt;/p&gt;
+</description>
+        
+        <pubDate>Sun, 15 Nov 2015 01:32:00 +0530</pubDate>
+        <link>http://iamVP7.github.io//2015/11/happy-birthday-firefox/</link>
+        <guid isPermaLink="true">http://iamVP7.github.io//2015/11/happy-birthday-firefox/</guid>
+      </item>
+    
+      <item>
+        <title>Firefox OS 2.5 Developer Preview</title>
+        
+        
+          <description>&lt;p&gt;Firefox OS is one of the awesome OS which is promoting Web, user privacy and customization. As of now Firefox 2.5 is not available in many consumer based device. Recently Mozilla Firefox OS team came with interesting idea to develop a small Android based Application with which we can try Firefox OS in any android device.&lt;/p&gt;
+</description>
+        
+        <pubDate>Sat, 14 Nov 2015 01:48:00 +0530</pubDate>
+        <link>http://iamVP7.github.io//2015/11/firefox-os-2.5-developer-preview/</link>
+        <guid isPermaLink="true">http://iamVP7.github.io//2015/11/firefox-os-2.5-developer-preview/</guid>
+      </item>
+    
+      <item>
+        <title>Making your HTML website to Firefox OS app</title>
+        
+        
+          <description>&lt;p&gt;Recently we are see some of the post on how to develop a website using github pages. We saw  list of the followings in the perspective of github&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://technorulerin.wordpress.com/2015/07/08/creating-github-account/&quot; target=&quot;_blank&quot;&gt;creating github account&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://technorulerin.wordpress.com/2015/07/08/creating-github-website/&quot; target=&quot;_blank&quot;&gt;Creating Github website&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://technorulerin.wordpress.com/2015/07/14/cloning-the-source-from-github-to-local-machine/&quot; target=&quot;_blank&quot;&gt;How to clone your repo to our machine&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In &lt;a href=&quot;https://technorulerin.wordpress.com/firefox-os/&quot; target=&quot;_blank&quot;&gt;Firefox OS&lt;/a&gt; app development point of view we have really a large number of tutorials. Which is available in the &lt;a href=&quot;https://technorulerin.wordpress.com/firefox-os/&quot; target=&quot;_blank&quot;&gt;page&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Very recently I have share a tutorial about getting started to &lt;a href=&quot;https://viswaprasathks.wordpress.com/2015/08/16/online-firefox-os-app-development-introduction/&quot; target=&quot;_blank&quot;&gt;Firefox OS app development&lt;/a&gt;. It is recommended to to check about it. The session is very small and you can learn very quickly.&lt;/p&gt;
+&lt;p&gt;First you have to create a small file in the folder where you have your website. Name the file as &lt;em&gt;&lt;strong&gt;&quot;manifest.webapp&quot;&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;In that file you have to give the following lines&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;{&lt;br /&gt;
+&quot;name&quot;: &quot;MozillaTN&quot;,&lt;br /&gt;
+&quot;description&quot;: &quot;Mozilla Tamilnadu Website&quot;,&lt;br /&gt;
+&quot;launch_path&quot;: &quot;/index.html&quot;,&lt;br /&gt;
+&quot;icons&quot;: {&lt;br /&gt;
+&quot;512&quot;: &quot;/icons/icon512x512.png&quot;,&lt;br /&gt;
+&quot;256&quot;: &quot;/icons/icon256x256.png&quot;,&lt;br /&gt;
+&quot;64&quot;: &quot;/icons/icon64x64.png&quot;,&lt;br /&gt;
+&quot;128&quot;: &quot;/icons/icon128x128.png&quot;&lt;br /&gt;
+},&lt;br /&gt;
+&quot;developer&quot;: {&lt;br /&gt;
+&quot;name&quot;: &quot;Mozilla Tamilnadu&quot;,&lt;br /&gt;
+&quot;url&quot;: &quot;http://mozillatn.github.io/&quot;&lt;br /&gt;
+}&lt;br /&gt;
+}&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;detailed info of each key&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&quot;name&quot; is the application name. It should be less than 12 characters.&lt;/li&gt;
+&lt;li&gt;&quot;description&quot; is where we have to tell about the application. It is good practice to have 25+ words and 50-&lt;/li&gt;
+&lt;li&gt;&quot;launch_path&quot; we have to mention which is going to be our first page when the app is launched.&lt;/li&gt;
+&lt;li&gt;&quot;icons&quot;: this is the parent key which will have set of icons
+&lt;ul&gt;
+&lt;li&gt;&quot;512&quot;: is we have to give the location of the icon of size 512x512 px.&lt;/li&gt;
+&lt;li&gt;&quot;128&quot;: is we have to give the location of the icon of size 128X128 px.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&quot;developer&quot;: will be having most of the information about the developer
+&lt;ul&gt;
+&lt;li&gt;&quot;name&quot; : we have to give developer name&lt;/li&gt;
+&lt;li&gt;&quot;url&quot;: we can give the presonal website&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Save the file in the same folder where all your website contents like index.html, css files and js files are there.&lt;/p&gt;
+&lt;p&gt;The next step is just open &lt;a href=&quot;https://technorulerin.wordpress.com/2014/11/11/get-started-with-mozillas-webide/&quot; target=&quot;_blank&quot;&gt;WebIDE&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;You  have to open the project. (Project -&amp;gt; Open packaged app)&lt;/p&gt;
+&lt;p&gt;You have to open the folder of your application. You can see it is valid. If it is invalid, then have to check any problem in manifest file.&lt;/p&gt;
+&lt;p&gt;Then you can zip all the contest and upload to the marketplace. Your app is done.&lt;/p&gt;
+</description>
+        
+        <pubDate>Wed, 19 Aug 2015 18:58:13 +0530</pubDate>
+        <link>http://iamVP7.github.io//2015/08/making-your-html-website-to-firefox-os-app/</link>
+        <guid isPermaLink="true">http://iamVP7.github.io//2015/08/making-your-html-website-to-firefox-os-app/</guid>
+      </item>
+    
+      <item>
+        <title>Connection with Mozilla Communities in IRC</title>
+        
+        
+          <description>&lt;p&gt;Many interested students find it very difficult to join in IRC channel. IRC is the main source of communication with large number of contributors. In IRC channel we can see Mozilla Employees, Long time Contributors and first contributors and some time bots to help.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Easiest Way&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Visit https://client00.chat.mibbit.com&lt;a href=&quot;https://technorulerin.files.wordpress.com/2015/07/chatmibbit.png&quot;&gt;&lt;img class=&quot;alignright wp-image-460 &quot; src=&quot;//assets/chatmibbit.png?w=300&quot; alt=&quot;ChatMibbit&quot; width=&quot;368&quot; height=&quot;191&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Here you have to fill 3 things
+&lt;ol&gt;
+&lt;li&gt;Connect:&lt;/li&gt;
+&lt;li&gt;Nick:&lt;/li&gt;
+&lt;li&gt;Channel:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;For Connect from the drop down select Mozilla [webirc]&lt;/li&gt;
+&lt;li&gt;For Nick you have to give your favorite nick name&lt;/li&gt;
+&lt;li&gt;In Channel you have to give channel name, eg #moztn&lt;/li&gt;
+&lt;li&gt;After enter values Press connect&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://technorulerin.files.wordpress.com/2015/07/moztn.png&quot;&gt;&lt;img class=&quot; size-large wp-image-461 aligncenter&quot; src=&quot;//assets/moztn.png?w=660&quot; alt=&quot;Moztn&quot; width=&quot;660&quot; height=&quot;311&quot; /&gt;&lt;/a&gt;After giving the details you will have a screen like above, if there are many participants you will see their nick names in right hand side. From there it is like normal group chat. For above you can either chat from &lt;a href=&quot;https://technorulerin.wordpress.com/2014/11/10/firefox-introduced-developer-edition-of-browser/&quot;&gt;Mozilla Firefox&lt;/a&gt; or from &lt;a href=&quot;https://technorulerin.wordpress.com/2014/12/12/interesting-week-for-google/&quot;&gt;Google Chrome&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Medium Difficult Way&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;For this I have shown example using Firefox Browser&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;First Type about:addons in address bar&lt;/li&gt;
+&lt;li&gt;Then in search bar (Search for all-addons) type ChatZilla&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://technorulerin.files.wordpress.com/2015/07/chatzilla.png&quot;&gt;&lt;img class=&quot;alignright wp-image-462 &quot; src=&quot;//assets/chatzilla.png?w=300&quot; alt=&quot;chatzilla&quot; width=&quot;328&quot; height=&quot;161&quot; /&gt;&lt;/a&gt;In Available addons you can find (chatzilla 0.9.9.91)&lt;/li&gt;
+&lt;li&gt;If you have already install then you will be find it in My addons&lt;/li&gt;
+&lt;li&gt;Restart your browser&lt;/li&gt;
+&lt;li&gt;Then you can click on &lt;strong&gt;open menu&lt;/strong&gt; (right top in address bar row)&lt;/li&gt;
+&lt;li&gt;There you can find Chatzilla. Open it by clicking&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://technorulerin.files.wordpress.com/2015/07/chatzillahomepage.png&quot;&gt;&lt;img class=&quot; size-large wp-image-463 aligncenter&quot; src=&quot;//assets/chatzillahomepage.png?w=660&quot; alt=&quot;ChatZillaHomePage&quot; width=&quot;660&quot; height=&quot;371&quot; /&gt;&lt;/a&gt;When you open Chatzilla you will see like above.&lt;/li&gt;
+&lt;li&gt;Then Click on the Moznet, it will take some time to load. Wait till that&lt;/li&gt;
+&lt;li&gt;So after loading type /join #moztn to join in MozTN channel&lt;/li&gt;
+&lt;li&gt;Beyond that as before you can start chatting.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;You can choose any way you are comfortable with. And start talking to contributors&lt;/p&gt;
+</description>
+        
+        <pubDate>Wed, 15 Jul 2015 20:34:28 +0530</pubDate>
+        <link>http://iamVP7.github.io//2015/07/connection-with-mozilla-communities-in-irc/</link>
+        <guid isPermaLink="true">http://iamVP7.github.io//2015/07/connection-with-mozilla-communities-in-irc/</guid>
+      </item>
+    
+      <item>
+        <title>Cloning the Source from Github to Local Machine</title>
+        
+        
+          <description>&lt;p&gt;In our previous post we have see how to &lt;a href=&quot;https://technorulerin.wordpress.com/2015/07/08/creating-github-website/&quot;&gt;create a repo&lt;/a&gt; in Github.com. In this post Would like to introduce how to bring that repo from Github.com to the local machine, so you can make changes in your local desktop machine and later push them to the github.com so can view at any time.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Install the Git&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;First We need to Install the git in our machine.&lt;/li&gt;
+&lt;li&gt;Visit http://git-scm.com/download/ and choose your machine type, either Mac, Windows or Linux based&lt;/li&gt;
+&lt;li&gt;I use Ubuntu so I will type &quot;&lt;code&gt;apt-get install git&lt;/code&gt;&quot; in my terminal&lt;/li&gt;
+&lt;li&gt;When password is asked give it, so the installation will get completed.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Cloning the repo to Machine&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Then we have to clone the repo from Github to our localmachine &lt;a href=&quot;https://technorulerin.files.wordpress.com/2015/07/clone.png&quot;&gt;&lt;img class=&quot;alignright wp-image-467 size-medium&quot; src=&quot;//assets/clone.png?w=300&quot; alt=&quot;Clone&quot; width=&quot;300&quot; height=&quot;142&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Visit the repo page, in my case (https://github.com/viswaprasath/viswaprasath.github.io)&lt;/li&gt;
+&lt;li&gt;You can see &lt;strong&gt;HTTPS clone URL &lt;/strong&gt;above Download Zip button&lt;/li&gt;
+&lt;li&gt;Below that a URL is given, copy that URL full you can click the button next to the url to copy the url.&lt;/li&gt;
+&lt;li&gt;Open Terminal &amp;amp; type the command&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;&lt;p&gt; git clone https://github.com/viswaprasath/viswaprasath.github.io.git&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;In your case the url will be different. So you will be getting a folder in your machine with the name viswaprasath.github.io&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Making changes&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Go inside the folder&lt;/li&gt;
+&lt;li&gt;Create some files say index.html is mandatory&lt;/li&gt;
+&lt;li&gt;I have typed some lines in index.html so when visitor comes to my website he first will see it&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;&lt;p&gt;&amp;lt;html&amp;gt;&lt;br /&gt;
+&amp;lt;head&amp;gt;&amp;lt;title&amp;gt; Welcome to My Website &amp;lt;/title&amp;gt;&lt;br /&gt;
+&amp;lt;/head&amp;gt;&lt;br /&gt;
+&amp;lt;body&amp;gt;&lt;br /&gt;
+Hello World!!&lt;br /&gt;
+&amp;lt;/body&amp;gt;&lt;br /&gt;
+&amp;lt;/html&amp;gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;So When visitors comes in he will see Hello World.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sending Back to Github&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;After making the changes we have to upload the files to github. It is called as push (we send from local to github)&lt;/li&gt;
+&lt;li&gt;So first we have to add all the files we have changes. We can do it by type &lt;strong&gt;&quot;git add --all&quot;,&lt;/strong&gt; so all files will be added.&lt;/li&gt;
+&lt;li&gt;Then we have to mention why we have added the files type ( &lt;strong&gt;git commit -m &quot;Initial commit&quot;&lt;/strong&gt; )  where initial commit is the message, we can give any message here so we can understand easily.&lt;/li&gt;
+&lt;li&gt;Then &lt;strong&gt;&quot;git push -u origin master&quot;&lt;/strong&gt; here we have only one branch as of now and that name is Master, so we are pushing our code to it.&lt;/li&gt;
+&lt;li&gt;So it will ask for your username and password.&lt;/li&gt;
+&lt;li&gt;Give them correctly. So all the code will be push.&lt;/li&gt;
+&lt;li&gt;After that give url in address bar (http://viswaprasath.github.io/) in your case it will change. You will see what you have written in index.html. I gave it as Hello World!&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        
+        <pubDate>Tue, 14 Jul 2015 20:54:00 +0530</pubDate>
+        <link>http://iamVP7.github.io//2015/07/cloning-the-source-from-github-to-local-machine/</link>
+        <guid isPermaLink="true">http://iamVP7.github.io//2015/07/cloning-the-source-from-github-to-local-machine/</guid>
+      </item>
+    
+      <item>
+        <title>Creating Github Website</title>
+        
+        
+          <description>&lt;p&gt;In previous post we had small discussion about creating &lt;a href=&quot;https://technorulerin.wordpress.com/2015/07/08/creating-github-account/&quot; target=&quot;_blank&quot;&gt;Github account&lt;/a&gt;. In this post we can take a look how to create a small Github Website which is available for Free.&lt;/p&gt;
+&lt;p&gt;First know your Profile name. After you login in, you can see your avatar at the right top corner. Click that drop down box, in that you will be seeing an option call Your Profile, for me it is &lt;a href=&quot;https://github.com/viswaprasath&quot; target=&quot;_blank&quot;&gt;https://github.com/viswaprasath&lt;/a&gt; , so my profile Name is &lt;a href=&quot;https://github.com/viswaprasath&quot; target=&quot;_blank&quot;&gt;viswaprasath&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Next Step is to create a repo. We can do it very easily, for simply beginner level understanding repo is like a folder which will contain all the project files.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;After visiting your profile click on the repositories tab.&lt;/li&gt;
+&lt;li&gt;Then Click on New Button to Create a new repo.&lt;/li&gt;
+&lt;li&gt;Or simply click &lt;a href=&quot;https://github.com/new&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;So we have to give the repo name. Our target for the day is to create a small website for us. So now we have to create a repo in our name in the following format. username.github.io so I will be creating as viswaprasath.github.io&lt;/p&gt;
+&lt;p&gt;Then you have to give description about the repo. It will be very useful when you take it in future for Reference.&lt;/p&gt;
+&lt;p&gt;Then you can check &quot;Initialize this repository with a README&quot; so we can automatically create the ReadME file. If you are ware of the licensing type mention that also. You can learn more about licensing &lt;a href=&quot;http://choosealicense.com/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;. So as of Now we have created the simple repo for us.&lt;/p&gt;
+</description>
+        
+        <pubDate>Wed, 08 Jul 2015 19:32:32 +0530</pubDate>
+        <link>http://iamVP7.github.io//2015/07/creating-github-website/</link>
+        <guid isPermaLink="true">http://iamVP7.github.io//2015/07/creating-github-website/</guid>
+      </item>
+    
+      <item>
+        <title>Creating Github Account</title>
+        
+        
+          <description>&lt;p&gt;For the past few years the number of Open source contributors in India is increasing very well. Many of the students/Professionals love to contribute to Open source communities. They do either by writing documents, organizing install fest and so on. Some of the contributors love of do code contribution, but they are not able to get started and stops without even creating the basic accounts. Now would like to share the steps in creating Github profile.&lt;/p&gt;
+&lt;p&gt;First Step is to visit &lt;a href=&quot;https://github.com/&quot; target=&quot;_blank&quot;&gt;https://github.com/&lt;/a&gt; You will be seeing the website like below&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://technorulerin.files.wordpress.com/2015/07/github1.png&quot;&gt;&lt;img class=&quot;aligncenter wp-image-452 size-large&quot; src=&quot;//assets/github1.png?w=660&quot; alt=&quot;github First Page&quot; width=&quot;660&quot; height=&quot;291&quot; /&gt;&lt;/a&gt;The next step is to click on the Signup button, which is a small green color button at the top.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://technorulerin.files.wordpress.com/2015/07/github-singup-button.png&quot;&gt;&lt;img class=&quot; size-large wp-image-453 aligncenter&quot; src=&quot;//assets/github-singup-button.png?w=660&quot; alt=&quot;Github Singup button&quot; width=&quot;660&quot; height=&quot;29&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;You will be promoted to the screen where you have to give your username, Email ID, password and also conform password.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://technorulerin.files.wordpress.com/2015/07/signupform.png&quot;&gt;&lt;img class=&quot; size-large wp-image-454 aligncenter&quot; src=&quot;//assets/signupform.png?w=660&quot; alt=&quot;Github signupform&quot; width=&quot;660&quot; height=&quot;310&quot; /&gt;&lt;/a&gt;Then after giving proper details you will be prompted to choose the plans. If you would like to have a personal repo you can pay price and buy it or else you can use any number of Public repo.&lt;/p&gt;
+&lt;p&gt;Click on Finish Singup.&lt;/p&gt;
+&lt;p&gt;So It is very simple to create the Github Profile. We can do it in few minutes. There is bitbucket which is similar to github. But in current trend most of the Open source Projects are available in github.&lt;/p&gt;
+&lt;p&gt;Start creating your account today and share exciting projects.&lt;/p&gt;
+</description>
+        
+        <pubDate>Wed, 08 Jul 2015 17:55:46 +0530</pubDate>
+        <link>http://iamVP7.github.io//2015/07/creating-github-account/</link>
+        <guid isPermaLink="true">http://iamVP7.github.io//2015/07/creating-github-account/</guid>
+      </item>
+    
+  </channel>
+</rss>
