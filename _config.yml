@@ -4,7 +4,7 @@ meta_description: "IamVP7 blogging website who blogs about Mobile application AP
 gems: [jekyll-paginate, jekyll-gist]
 aboutPage: true
 
-highlighter: pygments
+highlighter: rouge
 
 paginate: 5
 paginate_path: "page:num"
