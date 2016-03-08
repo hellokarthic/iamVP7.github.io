@@ -28,7 +28,7 @@ So as of now Firefox Will allow only the add-ons which are signed when you start
 
 ![Signature]({{ site.url }}/assets/signature.png)
 
-4. You can double click on it or else right click and select toggle. So it will be set to true
+4. You can double click on it or else right click and select toggle. So it will be set to false
 
 ## Why Web Extensions
 
