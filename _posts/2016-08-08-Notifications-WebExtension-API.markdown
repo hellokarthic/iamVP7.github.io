@@ -10,7 +10,8 @@ In this post we will be exploring more about Notifications API for Firefox WebEx
 
 There are lot of time, we love notifications, say when a new message comes to whatsapp, new Post is written in the blogs and so on. These notifications are really great features both in web and mobile which will help us to save lot of time. Firefox Webextensions have one of the amazing API to create notifications, you can find more detail in the [Mozilla Developer Network](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/API/Notifications), some of the aspects of this API will be discussed below.
 
-#Creating Notification
+#Creating Simple Notification
+
 > chrome.notifications.create( "vp7",{
 >    "type": "basic",
 >    "iconUrl": chrome.extension.getURL("icons/chillout-32.png"),
@@ -27,5 +28,8 @@ Generally Notification id is not mandatory it is optional, but it is good practi
 
 In the options part we are having different parameters which will be defining the Notification. First one is *type* of the notification, currently Firefox (Firefox 48) is supporting only basic type, but we also have image, list and progress as types.
 
-We can compare with the above image and understand the Simple notification easily, the **Bold Letters -- Alert message** is the title of the notification, and the normal font face "Time to drink water" is the message of the notification.
+We can compare with the above image and understand the Simple notification easily, the **Bold Letters -- Alert message** is the title of the notification, and the normal font face "Time to drink water" is the message of the notification. And in the left side you can see the small notification icon for this particular notification, usually company logos goes here.
 
+#Creating Image Notification
+
+We all know, the WebExtensions is universal extensions, without changing any code I tried the same extension in the Google Chrome, just to check whether I can test image Notifications
