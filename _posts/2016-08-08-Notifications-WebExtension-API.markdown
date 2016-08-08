@@ -13,6 +13,7 @@ There are lot of time, we love notifications, say when a new message comes to wh
 **Creating Simple Notification**
 ================================
 
+>
 > chrome.notifications.create( "vp7",{
 >    
 >	"type": "basic",
@@ -38,4 +39,29 @@ We can compare with the above image and understand the Simple notification easil
 
 **Creating Image Notification**
 ===============================
-We all know, the WebExtensions is universal extensions, without changing any code I tried the same extension in the Google Chrome, just to check whether I can test image Notifications
+We all know, the WebExtensions is universal extensions, without changing any code I tried the same extension in the Google Chrome, just to check whether I can test image Notifications.
+
+
+>
+> chrome.notifications.create( "vp7",{
+> 
+>       "type": "image",
+> 
+>       "iconUrl": chrome.extension.getURL("icons/chillout-32.png"),
+> 	
+>	"imageUrl": chrome.extension.getURL("icons/chillout-32.png"),
+>
+>       "title": "Alert message",
+> 
+>       "message": "Time to drink water"
+> 
+>       });
+
+
+It was very easy to test the Image notifications, we can use it in blogs generally, so we can drive traffic to other post. Take a look at the below image, you can clearly understand how useful it will be to use Image notifications in your blog.
+
+The two main changes that have been introduced here is **"type": "image",** and additionally **"imageUrl": chrome.extension.getURL("icons/chillout-32.png")** 
+
+In the upcoming posts we can discuss other two Notification types and also the different event listerners, clearing and updating the notifications and so on.
+
+![Notification Image]({{ site.url }}/assets/notification_image.png)
