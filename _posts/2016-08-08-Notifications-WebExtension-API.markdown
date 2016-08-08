@@ -14,7 +14,7 @@ There are lot of time, we love notifications, say when a new message comes to wh
 ================================
 
 >
-> chrome.notifications.create( "vp7",{
+>	 chrome.notifications.create( "vp7",{
 >    
 >	"type": "basic",
 >    
@@ -43,7 +43,7 @@ We all know, the WebExtensions is universal extensions, without changing any cod
 
 
 >
-> chrome.notifications.create( "vp7",{
+> 	chrome.notifications.create( "vp7",{
 > 
 >       "type": "image",
 > 
