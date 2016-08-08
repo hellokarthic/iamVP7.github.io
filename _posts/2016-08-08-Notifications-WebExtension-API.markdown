@@ -14,11 +14,16 @@ There are lot of time, we love notifications, say when a new message comes to wh
 ================================
 
 > chrome.notifications.create( "vp7",{
->    "type": "basic",
->    "iconUrl": chrome.extension.getURL("icons/chillout-32.png"),
->    "title": "Alert message",
->    "message": "Time to drink water"
->  });
+>    
+>	"type": "basic",
+>    
+>	"iconUrl": chrome.extension.getURL("icons/chillout-32.png"),
+>    
+>	"title": "Alert message",
+>    
+>	"message": "Time to drink water"
+>  
+>	});
 
 
 In the above example *vp7* is the notification id, and the remaining part is the options for that notification.
