@@ -62,6 +62,9 @@ It was very easy to test the Image notifications, we can use it in blogs general
 
 The two main changes that have been introduced here is **"type": "image",** and additionally **"imageUrl": chrome.extension.getURL("icons/chillout-32.png")** 
 
-In the upcoming posts we can discuss other two Notification types and also the different event listerners, clearing and updating the notifications and so on.
 
 ![Notification Image]({{ site.url }}/assets/notification_image.png)
+
+
+
+In the upcoming posts we can discuss other two Notification types and also the different event listerners, clearing and updating the notifications and so on.
