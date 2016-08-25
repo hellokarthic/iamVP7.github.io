@@ -111,7 +111,7 @@ h2 {
 	  font-weight: 300;
 	  color: #aaa;
 	  margin-top: 10px;
-	  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	  font-family: Inconsolata, sans-serif, 'Helvetica Neue', Helvetica, Arial, sans-serif;
 	  font-style: normal;
 
 }
@@ -237,19 +237,19 @@ em, i { font-style: italic; }
 .post h1 {
 	margin-bottom: 20px;
 	color: #222;
-	font: 300 32px/1.4em "Helvetica Neue", Helvetica,Arial,sans-serif;
+	font: 300 32px/1.4em Inconsolata, sans-serif,"Helvetica Neue", Helvetica,Arial,sans-serif;
 }
 
 .post h2 {
 	margin-bottom: 40px;
-	  font: 300 24px/1.5 "Helvetica Neue",Helvetica,Arial,sans-serif;
+	  font: 300 24px/1.5 Inconsolata, sans-serif, "Helvetica Neue",Helvetica,Arial,sans-serif;
 	  color: #111;
 }
 
 
 .post h2.headline {
 	/*font: italic 22px/1.3em Georgia,serif;*/
-	font: normal 13px/1.5em "Helvetica Neue",Helvetica,Arial,sans-serif;
+	font: normal 13px/1.5em Inconsolata, sans-serif,"Helvetica Neue",Helvetica,Arial,sans-serif;
 	margin: -5px 0 40px 0;
 	color: #b2b9be;
 	  font-size: 13px;
@@ -260,7 +260,7 @@ em, i { font-style: italic; }
 }
 
 #post-list h2 {
-	font: normal 17px/1.5em "Helvetica Neue",Helvetica,Arial,sans-serif;
+	font: normal 17px/1.5em Inconsolata, sans-serif, "Helvetica Neue",Helvetica,Arial,sans-serif;
 	color: #aaa;
 	max-width: 400px;
 	margin-top: 2px;
@@ -302,7 +302,7 @@ hr {
 span.code { font-family:Menlo, Monaco, Courier; background-color:#EEE; font-size:14px; }
 
 pre	{
-	font-family:Menlo, Monaco, Courier;
+	font-family:Inconsolata, sans-serif, Menlo, Monaco, Courier;
 	white-space:pre-wrap;
 	/*border: 1px solid #ddd;*/
 	padding:20px;
@@ -597,12 +597,12 @@ h2.month {
 
 #post-list.archive.readmore h3{
 
-	  font: 400 20px "Helvetica Neue", Helvetica,Arial,sans-serif;
+	  font: 400 20px Inconsolata, sans-serif, "Helvetica Neue", Helvetica,Arial,sans-serif;
 	  margin-bottom: 30px;
 }
 
 #post-list.archive.readmore a{
-	font: 400 16px/1.6 "Helvetica Neue",helvetica,Arial,sans-serif;
+	font: 400 16px/1.6 Inconsolata, sans-serif, "Helvetica Neue",helvetica,Arial,sans-serif;
 	color: #5694f1;
 }
 
