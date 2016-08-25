@@ -15,6 +15,7 @@ I will be showing this demo with the help of the small extension I have written 
 **Step1: Go to the directory which has contents of Extension**
 
 In my case it will look like the below. The content showed below is the contents of Extension, which the link is shared above.
+
 ![Directory Image]({{  site.url }}/assets/content_directory.png)
 
 **Step 2: We have to compress all the contents into Zip**
