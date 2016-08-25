@@ -151,7 +151,7 @@ nav.main-nav a.cta {
   max-width: 80%;
   margin: 0 auto;
   padding: 60px 40px 100px 40px;
-	background-color: #daeaea;
+	background-color: #fff;
 	box-shadow: 5px 5px 20px #878787;
 }
 
@@ -402,7 +402,7 @@ img {
 Post List
 =========================================== */
 #post-list,#archive-list {
-	margin-top: 100px;
+	margin-top: 10px;
 }
 
 #post-list li,#archive-list li {
@@ -421,14 +421,14 @@ Post List
 #post-list a {
 	color: #333;
 	display: block;
-	font: bold 19px/1.7 'Open Sans',"Helvetica Neue",helvetica,Arial,sans-serif;
+	font: bold 16px/1.7 'Open Sans',"Helvetica Neue",helvetica,Arial,sans-serif;
 }
 
 #post-list .dates {
 	float: right;
 	position: relative;
 	top: 1px;
-	font: 300 17px/1.8 'Open Sans', "Helvetica Neue",helvetica,Arial,sans-serif;
+	font: 300 16px/1.8 'Open Sans', "Helvetica Neue",helvetica,Arial,sans-serif;
 	color: #bbb;
 }
 
