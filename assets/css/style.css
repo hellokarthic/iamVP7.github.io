@@ -281,7 +281,7 @@ em, i { font-style: italic; }
 #post-list h2 {
 	font: normal 17px/1.5em 'Open Sans', Inconsolata, sans-serif, "Helvetica Neue",Helvetica,Arial,sans-serif;
 	color: #aaa;
-	max-width: 400px;
+	max-width: 600px;
 	margin-top: 2px;
 }
 
@@ -672,4 +672,17 @@ h2.month {
 	.post h2.headline { font-size: 13px; }
 	.post h1 { font-size:24px; }
 	.post h2 { font-size:20px; }
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+}
+
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.container {
+    padding: 2px 16px;
 }
