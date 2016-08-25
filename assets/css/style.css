@@ -415,7 +415,7 @@ Post List
 
 #post-list li+li {
 	padding-top: 20px;
-	border-top: 1px solid #eee;
+	border-top: 1px solid #000;
 }
 
 #post-list a {
