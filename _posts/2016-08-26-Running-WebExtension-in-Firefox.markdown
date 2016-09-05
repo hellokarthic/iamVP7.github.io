@@ -6,7 +6,7 @@ categories: addons
 tags: [addons,firefox]
 ---
 
-In this post we will be exploring more how to run an Firefox WebExtensions. In last post I was writing about [Getting Started with WebExtension]({{ site.url/2016/02/Lets-Get-Started-With-WebExtensions/}}). Just read it before starting, so you can config your browser accordingly. 
+In this post we will be exploring more how to run an Firefox WebExtensions. In last post I was writing about [Getting Started with WebExtension]({{ site.url }}/2016/02/Lets-Get-Started-With-WebExtensions/). Just read it before starting, so you can config your browser accordingly. 
 
 
 I will be showing this demo with the help of the small extension I have written before, feel free to download it from [github](https://github.com/iamVP7/MyExtensions/tree/master/tabopen/Firefox), you can clone whole [repo](https://github.com/iamVP7/MyExtensions/).  I personally use [web-ext](https://github.com/mozilla/web-ext) tool for packing my extension, but for basic learning it is not mandatory.

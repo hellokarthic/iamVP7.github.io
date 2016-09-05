@@ -6,7 +6,7 @@ categories: addons
 tags: [addons,firefox]
 ---
 
-In this post we will be exploring more about Notifications API for Firefox WebExtensions. In last post I was writing about [Getting Started with WebExtension]({{ site.url/2016/02/Lets-Get-Started-With-WebExtensions/}}). Just read it before starting, so you can config your browser accordingly. 
+In this post we will be exploring more about Notifications API for Firefox WebExtensions. In last post I was writing about [Getting Started with WebExtension]({{ site.url }}/2016/02/Lets-Get-Started-With-WebExtensions/). Just read it before starting, so you can config your browser accordingly. 
 
 There are lot of time, we love notifications, say when a new message comes to whatsapp, new Post is written in the blogs and so on. These notifications are really great features both in web and mobile which will help us to save lot of time. Firefox Webextensions have one of the amazing API to create notifications, you can find more detail in the [Mozilla Developer Network](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/API/Notifications), some of the aspects of this API will be discussed below.
 
