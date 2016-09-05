@@ -6,7 +6,7 @@ categories: addons
 tags: [addons,firefox]
 ---
 
-In last post I was writing about [Getting Started with WebExtension]({{ site.url/2016/02/Lets-Get-Started-With-WebExtensions/}}). Its very exicting to learn something new in Web each and everyday. And as a developer the feel when we know our software (General term you can replace with WebExtension)  is going to reach many users its awesome feeling.
+In last post I was writing about [Getting Started with WebExtension]({{ site.url }}/2016/02/Lets-Get-Started-With-WebExtensions/). Its very exicting to learn something new in Web each and everyday. And as a developer the feel when we know our software (General term you can replace with WebExtension)  is going to reach many users its awesome feeling.
 
 Often many times I have the habit of visiting some website daily and very frequently. So I decided to have top three websites I visit and open them in a single click. I developed an Add-on which will be opening the websites choosen.
 
